@@ -1,0 +1,514 @@
+qid,IMG,QSN,ANS_TYP,TXT,OBJ,COL,CNT,OTH,ANS1,ANS2,ANS3,ANS4,ANS5,ANS6,ANS7,ANS8,ANS9,ANS10
+435554006,COCO_train2014_000000435554.jpg,Which direction is the tennis player's hat facing?,other,0,1,0,0,0,left,left,forward,towards net,forward,left,front,left,left,forward
+435686028,COCO_train2014_000000435686.jpg,What is the weather?,other,0,1,1,0,0,cloudy,overcast,sunny,"sunny, warm",clear,cloudy,cloudy,overcast,cloudy,cloudy
+435829002,COCO_train2014_000000435829.jpg,How many red train cars are in this image?,number,0,1,1,1,0,1,5,5,1,4,49,10,5,1,3
+436287002,COCO_train2014_000000436287.jpg,How many windows are visible?,number,0,1,0,1,0,17,42,25,20,35,30,numerous,36,24,52 many
+436515001,COCO_train2014_000000436515.jpg,Is this person drunk?,yes/no,0,1,1,0,0,no,yes,yes,maybe,no,no,no,maybe,yes,possibly
+436981000,COCO_train2014_000000436981.jpg,What are the letters on the bus?,other,1,1,0,0,0,lak309g,lak,lak,3096,lak,lak,lak 3090,lak,lak,lak309g
+437102001,COCO_train2014_000000437102.jpg,How many books are red?,number,0,1,1,1,0,28,20,29,20,38,10,15,dozens,18,several
+437139012,COCO_train2014_000000437139.jpg,How many people can be seen?,number,0,1,0,1,0,5,4,5,4,4,3,3,4,3,4
+437300000,COCO_train2014_000000437300.jpg,What type of sink is this?,other,0,1,0,0,0,pedestal,pedestal,pedal sink,oval,pedestal,standing,bathroom,bathroom sink,standing sink,old-fashioned
+43774003,COCO_train2014_000000043774.jpg,How many plates in this stack?,number,0,1,0,1,0,5,5,6,5,1,11,7,5,5,5
+43774009,COCO_train2014_000000043774.jpg,What is written on the plate?,other,1,1,0,0,0,newt protecting village happy 50th birthday,newt protecting village happy 50th birthday,heat protecting village happy 50th birthday,happy 50th birthday,nothing,nothing,happy 50th birthday,newt protecting village happy 50th birthday,protecting village happy 50th birthday,"newt, protecting village, happy 50th birthday"
+437900001,COCO_train2014_000000437900.jpg,How many sheep are there?,number,0,1,0,1,0,9,9,10,7,8,8,6,8,7,8
+437949004,COCO_train2014_000000437949.jpg,How many motorcycle do you see?,number,0,1,0,1,0,2,2,2,2,2,2,3,2,4,3
+438053007,COCO_train2014_000000438053.jpg,What kind of board is the man riding?,other,0,1,0,0,0,skateboard,skateboard,skate,skate,skateboard,skateboard,skateboard,skate,skate,skateboard
+438053018,COCO_train2014_000000438053.jpg,Was this picture taken recently?,yes/no,0,1,1,0,0,unknown,yes,yes,yes,no,maybe,yes,no,no,yes
+438479004,COCO_train2014_000000438479.jpg,How many giraffes are in the picture?,number,0,1,0,1,0,8,8,7,7,7,8,7,8,7,8
+438594001,COCO_train2014_000000438594.jpg,Are all the vegetables green?,yes/no,0,1,1,0,0,yes,no,yes,no,yes,yes,no,yes,no,yes
+438671021,COCO_train2014_000000438671.jpg,What sits on the left hand side of the bowl?,other,0,1,0,0,0,jug,milk,cup,container,eggs,spoon,bottle,broccoli,milk,grapes
+438701005,COCO_train2014_000000438701.jpg,Who will finish eating first?,other,0,1,0,0,0,boy,boy,boy,child,boy,boy,kid,kid,boy,boy
+43876000,COCO_train2014_000000043876.jpg,What animal is hanging from the keychain?,other,0,1,1,0,0,dog,clips,rabbit,none,none,monkey,no keychain,spider,none,no animal no keychain
+438932001,COCO_train2014_000000438932.jpg,Where is the plant?,other,0,1,0,0,0,table,table,on stand,on table,table,table,on table,on table,yes,stand
+439003005,COCO_train2014_000000439003.jpg,What color is the pan?,other,0,1,1,0,0,black,black,black,copper,brown,brown,black,metal,bronze,copper
+439107002,COCO_train2014_000000439107.jpg,What is the sky?,other,0,1,1,0,0,kite,blue,blue,yes,kite,kite,kite,cloudy,sailboat kite,ship
+439251001,COCO_train2014_000000439251.jpg,What is the animal wearing on its head?,other,0,1,0,0,0,horns,horns,antlers,horns,horns,horns,horns,cow,horns,nothing
+439506005,COCO_train2014_000000439506.jpg,Does the girl dye her hair?,yes/no,0,1,1,0,0,no,no,no,maybe,no,no,no,no,yes,yes
+439506009,COCO_train2014_000000439506.jpg,What color is the boy's vest?,other,0,1,1,0,0,no vest,none,no boy vest,no boy,none,blue,blue,no boy,none,no boy
+439550002,COCO_train2014_000000439550.jpg,Is he depressed?,yes/no,0,1,1,0,0,no,yes,no,no,no,yes,no,yes,yes,yes
+439576006,COCO_train2014_000000439576.jpg,Is the woman going to eat it all?,yes/no,0,1,0,1,0,no,yes,no,no,no,no,cake,no,yes,no
+439615003,COCO_train2014_000000439615.jpg,What is the color of the clouds?,other,0,1,1,0,0,white,white,gray,gray,white,white,white,white,gray,white
+439758008,COCO_train2014_000000439758.jpg,How many tops of bottles can you see?,number,0,1,1,0,0,1,1,0,0,1,1,1,1,0,2
+439926000,COCO_train2014_000000439926.jpg,What team is the player in white on?,other,0,1,1,0,0,orioles,orioles,orioles,orioles,orion,orioles,orioles,orioles,oros,birds
+439930008,COCO_train2014_000000439930.jpg,What time does the clock show?,number,1,1,0,1,0,11:45,8:45,11:45,12:50,11:47,11:45,11:45 AM,11:46,11:45,11:45
+439939000,COCO_train2014_000000439939.jpg,Does the skis match the skiers jackets?,yes/no,0,1,1,0,0,no,yes,yes,yes,yes,yes,yes,yes,because they like it that way,no
+439995002,COCO_train2014_000000439995.jpg,Is the microwave on?,yes/no,1,1,0,0,0,yes,yes,yes,yes,yes,no,yes,yes,no,no
+440107001,COCO_train2014_000000440107.jpg,Is this boat moving down the river?,yes/no,0,1,0,0,0,no,yes,no,no,no,no,no,yes,yes,no
+440147000,COCO_train2014_000000440147.jpg,How many people would be on this boat?,number,0,1,0,1,0,29,875,several,50,1,70,65,many,50,100
+44017000,COCO_train2014_000000044017.jpg,How many yellow helmets is there?,number,0,1,1,1,0,0,2,many,2,2,1,2,1,1,`
+440285040,COCO_train2014_000000440285.jpg,What kind of cake is that?,other,0,1,1,0,0,banana,carrot,spice,raisin,banana,pumpkin,banana cream,carrot cake,carrot,pumpkin
+440340002,COCO_train2014_000000440340.jpg,Why is the girl holding an umbrella?,other,0,1,0,0,1,fashion,block sun,sunny,shade,for shade,sun protection,sunny,rain,shade,keep sun off
+440689004,COCO_train2014_000000440689.jpg,What kind of bike is it?,other,0,1,1,0,0,scooter,scooter,motor,moped,scooter,motorcycle,motorcycle,scooter,scooter,scooter
+440689009,COCO_train2014_000000440689.jpg,What is on the front of the bike?,other,0,1,0,0,0,mirrors,mirrors,motorcycle,mirrors,another bike,mirrors,mirror,tire,mirror,mirrors
+440874010,COCO_train2014_000000440874.jpg,Are the older or younger animals darker?,other,0,1,1,0,0,older,younger,older,younger,older,younger,older,younger,younger,older
+441034004,COCO_train2014_000000441034.jpg,IS the train moving?,yes/no,0,1,0,0,0,no,no,no,no,yes,no,yes,yes,yes,yes
+441105001,COCO_train2014_000000441105.jpg,Do the skis seem short?,yes/no,0,1,0,0,0,yes,no,yes,yes,yes,no,no,yes,no,yes
+441361005,COCO_train2014_000000441361.jpg,Who is on the bench?,other,0,1,0,1,0,old women,woman and man,2 people,couple,at park,people,elderly couple,2 people,people,women
+441387003,COCO_train2014_000000441387.jpg,Is there a light on the train?,yes/no,0,1,0,0,0,no,yes,no,yes,yes,yes,o,no,yes,no
+441412002,COCO_train2014_000000441412.jpg,What is the lady holding in her hand?,other,0,1,0,0,0,cell phone,phone,iphone,phone,phone,phone,phone,cell phone,smartphone,cell phone
+441425002,COCO_train2014_000000441425.jpg,Are the Macbooks?,yes/no,1,1,0,0,0,no,no,yes,no,no,yes,no,yes,no,no
+441493007,COCO_train2014_000000441493.jpg,Are there any blinds on the windows?,yes/no,0,1,1,1,0,no,no,yes,no,no,no,yes,yes,no,no
+441544002,COCO_train2014_000000441544.jpg,Is the man reading?,yes/no,0,1,0,0,0,yes,magazine,yes,yes,book,yes,no,yes,yes,book
+441608001,COCO_train2014_000000441608.jpg,Does the grass need to be cut?,yes/no,0,1,1,0,0,yes,yes,no,no,yes,no,yes,no,no,no
+442132000,COCO_train2014_000000442132.jpg,What number is on the front of the train?,number,1,1,0,1,0,89339,89339,339,89 339,89 339,89339,89 339,89 339,89 339,89 339
+442178000,COCO_train2014_000000442178.jpg,Are these animals free to roam?,yes/no,0,1,0,0,0,yes,no,yes,no,yes,yes,yes,no,yes,yes
+442332003,COCO_train2014_000000442332.jpg,What do the signs say?,number,0,1,0,0,0,do not enter 1 way,do not enter,do not enter,do not enter & 1 way,1 way 2av,1 way do not enter,do not enter 1 way,"do not enter, 1 way, and 2 av",do not enter,do not enter
+442450004,COCO_train2014_000000442450.jpg,"Has the gray tree, upper left, lost limbs?",yes/no,0,1,1,0,0,no,yes,yes,no,no,yes,yes,yes,yes,no
+442654000,COCO_train2014_000000442654.jpg,What is the color of the building?,other,0,1,1,0,0,tan,gray,gray,brown,tan,brown,brown,brown,gray,gray
+442670003,COCO_train2014_000000442670.jpg,What animals are these?,other,0,1,1,1,0,zebras,zebras,zebras,zebras,zebras,zebra,zebra,zebra,zebra,zebras
+442886003,COCO_train2014_000000442886.jpg,Is there anything hiding in the tasty drink?,yes/no,0,1,0,0,0,cinnamon,no,cinnamon,no,no,no,no,no,no,don't know
+44291001,COCO_train2014_000000044291.jpg,How many umbrellas in the photo?,number,0,1,0,1,0,10,12,14,14,12,11,13,14,15,12
+442911004,COCO_train2014_000000442911.jpg,What time does it say on the clock?,number,1,1,0,0,0,240,2:40,2:43,2:42,2:40,2:40,240,8:13,2:43,2:40
+442961001,COCO_train2014_000000442961.jpg,What is the person holding?,other,0,1,0,0,0,tennis racket,tennis racket,tennis racket,racquet,racket,tennis racket,tennis racket,racquet,racket,tennis racket
+442980002,COCO_train2014_000000442980.jpg,Are these zebras living in the wild?,yes/no,0,1,0,0,0,yes,yes,no,yes,yes,no,yes,yes,no,no
+443086003,COCO_train2014_000000443086.jpg,Can you tell what time of day it is by the shadow?,yes/no,0,1,1,0,0,no,no,no,no,no,not sure,no,no,noon,noon
+44337000,COCO_train2014_000000044337.jpg,Is the stove new?,yes/no,0,1,1,0,0,yes,yes,yes,no,yes,no,yes,no,yes,yes
+443373000,COCO_train2014_000000443373.jpg,How many cups are in the picture?,number,0,1,0,1,0,1,2,2,1,1,1,1,1,2,2
+443497001,COCO_train2014_000000443497.jpg,Why is the skier pointed this way on the mountain?,other,0,1,1,0,0,posing,slow down,going downhill,control,skiing downhill,turning,going to bottom,he will be heading down mountain,skiing,that is way he is skiing
+443522001,COCO_train2014_000000443522.jpg,What color is the toast?,other,0,1,1,0,0,yellow,brown,white,yellow,yellow,yellow,brown and yellow,beige and brown,ivory and brown,white
+44358000,COCO_train2014_000000044358.jpg,What is the man doing?,other,0,1,1,0,0,filling wine glass,pouring wine,pouring wine,repairing,filling wine glass,pouring wine,filling glass with wine,filling glass,getting drink,looking
+443607017,COCO_train2014_000000443607.jpg,What is the man sitting on?,other,0,1,0,0,0,carriage,cart,wagon,cart,carriage,carriage,bench,carriage,cart,wagon
+443823005,COCO_train2014_000000443823.jpg,Does it appear to be sunrise or sunset?,other,0,1,1,0,0,sunrise,neither,sunrise,sunrise,sunset,sunrise,sunrise,sunset,sunset,no
+443909016,COCO_train2014_000000443909.jpg,How many police are there?,number,0,1,1,1,0,6,7,6,0,8,0,6,0,10,9
+443909026,COCO_train2014_000000443909.jpg,What animal is on the flatbed?,other,0,1,0,0,0,none,none,human,none,no,man,people,no animal,none,dog
+444173000,COCO_train2014_000000444173.jpg,What type of filter is used in this picture?,other,0,1,1,0,0,black and white,black and white,black and white,black and white,unknown,fisheye,black and white,black and white,old,lens
+444210001,COCO_train2014_000000444210.jpg,Could passenger be boarding?,yes/no,0,1,1,0,0,yes,no,no,no,yes,yes,yes,no,no,no
+444226005,COCO_train2014_000000444226.jpg,Does the little horse want his freedom?,yes/no,0,1,0,0,0,no little horse,yes,no,yes,no,no,yes,no,no,no
+444235003,COCO_train2014_000000444235.jpg,Are there passengers on the bus?,yes/no,0,1,0,0,0,no,maybe,yes,no,no,no,yes,i don't know,yes,no
+444337000,COCO_train2014_000000444337.jpg,Can these items move?,yes/no,0,1,0,0,0,yes,yes,yes,no,no,yes,yes,yes,no,yes
+444404003,COCO_train2014_000000444404.jpg,What is in the sky?,other,0,1,1,0,0,kite,kite,sail,parasail,kite,kite,kite,kite,kite,sail
+444409021,COCO_train2014_000000444409.jpg,What beverage is on the table?,other,1,1,0,0,0,soda,soda,coffee and soda,soda,soda,coke,soda,soft drink,coke cola,mug
+444409037,COCO_train2014_000000444409.jpg,What is the food and drinks sitting next to?,other,0,1,1,0,0,computer,keyboard,computer,computer,computer,monitor,"keyboard, monitor, and feet","pizza, coffee",computer,computer monitor
+444409042,COCO_train2014_000000444409.jpg,What is in the wine glass?,other,0,1,0,0,0,no wine glass,n,pepsi,no glass,not sure,there is no wine glass,pepsi,no wine glass,wine,there is no wine glass
+444487003,COCO_train2014_000000444487.jpg,Do you see clouds in the sky?,yes/no,0,1,0,0,0,no,yes,no,this ocean scene,no,no,no,no,no,yes
+44454006,COCO_train2014_000000044454.jpg,Is the window open?,yes/no,0,1,0,0,0,no,yes,no,yes,no,no,yes,yes,no,no
+444794002,COCO_train2014_000000444794.jpg,What color is the woman's shirt?,other,0,1,1,0,0,beige,off white,tan,tan,beige,beige,tan,tan,white,tan
+444794003,COCO_train2014_000000444794.jpg,What is the woman doing to the bowl?,other,0,1,0,0,0,drying,washing it,drying,drying it,drying,no,drying it,drying it,drying it,wiping
+444872005,COCO_train2014_000000444872.jpg,Is the bird going after a fish?,yes/no,0,1,0,0,0,maybe,no,yes,yes,yes,no,yes,no,no,no
+444880003,COCO_train2014_000000444880.jpg,Why style of architecture is in the photo?,other,0,1,1,0,0,gothic,victorian,gothic,tourist attraction,gothic,neo-renaissance,gothic,old,medieval,classic
+444983001,COCO_train2014_000000444983.jpg,Is this train traveling under a cloud?,yes/no,0,1,0,0,0,no,no,yes,no,yes,yes,no,no,yes,yes
+445099001,COCO_train2014_000000445099.jpg,About how old is this toddler?,number,0,1,0,1,0,2,2,1,2,6 months,1,2,1,`10 months,1
+445338001,COCO_train2014_000000445338.jpg,How many bowls are on the counter?,number,0,1,0,1,0,3,0,3,3,3,3,2,3,2,3
+445388004,COCO_train2014_000000445388.jpg,Are the buses made by the same company?,yes/no,1,1,0,0,0,no,yes,no,no,no,no,no,not clear,yes,no
+445443002,COCO_train2014_000000445443.jpg,Who is flying the princess kite?,other,0,1,1,0,0,man,father,father,man,man,man,man,dad,no princess kite,girl
+445515000,COCO_train2014_000000445515.jpg,Are there any bricks with more than four sides?,yes/no,0,1,0,1,0,no,no,no,yes,yes,no,yes,yes,no,no
+445515002,COCO_train2014_000000445515.jpg,How much longer until midnight?,number,1,1,0,1,0,6 hours,8 hours,9 hours,7 hours,6 hours,8 hours,few hours,8 and half hours,5 hours,8 hours
+445592011,COCO_train2014_000000445592.jpg,How many pillows in the picture?,number,0,1,0,1,0,3,2,2,2,3,2,2,2,3,2
+445745002,COCO_train2014_000000445745.jpg,Was the apple sliced or chopped?,other,0,1,0,0,0,chopped,sliced,chopped,sliced,chopped,sliced,chopped,sliced,sliced,chopped
+446069000,COCO_train2014_000000446069.jpg,How many elephants are in this picture?,number,0,1,0,1,0,6,6,6,6,5,5,6,5,6,6
+446131002,COCO_train2014_000000446131.jpg,What is the name of the tower?,other,1,1,1,0,0,fred,no name,does not say,coit,clocktower,church,paris,clock tower,clock tower,st paul's cathedral
+446234002,COCO_train2014_000000446234.jpg,How is the man's hair styled?,other,0,1,0,0,0,slick,slicked back,slicked back,slick back,ponytail,slicked back,gelled back,slicked back,slicked back,slicked
+446271001,COCO_train2014_000000446271.jpg,Are all of the people seated?,yes/no,0,1,0,0,0,yes,no,no,yes,no,yes,yes,no,yes,no
+446471001,COCO_train2014_000000446471.jpg,How many bears are there?,number,0,1,0,1,0,16,21,23,50,30,20,many,many,25,23
+446628000,COCO_train2014_000000446628.jpg,What are the dark stripes on the ground?,other,0,1,0,0,0,shadows,shadows,shadows,shadow,yes,shadows,shadows,shadows,shadow,shadows
+446694020,COCO_train2014_000000446694.jpg,What is in the cone?,other,0,1,0,0,0,nothing,sandwich,no cone,ice cream,sandwich,no cone visible,nothing,nothing,sandwich,nothing
+447037002,COCO_train2014_000000447037.jpg,How many people are wearing glasses?,number,0,1,0,1,0,3,2,3,3,3,3,2,2,3,3
+447108003,COCO_train2014_000000447108.jpg,Why is the horse black?,other,0,1,1,0,0,born that way,gray,because purple is smurf,it's not,it is not,its white,genetics,not,white,white
+447112001,COCO_train2014_000000447112.jpg,Is the child bald?,yes/no,0,1,0,0,0,no,yes,no,no,yes,no,no,no,yes,no
+447112003,COCO_train2014_000000447112.jpg,What color are the babies eyes?,other,0,1,1,0,0,brown,black,black,brown,brown,brown,black,black,brown,dark brown
+447112024,COCO_train2014_000000447112.jpg,What is hugging the bear?,other,0,1,1,0,0,baby,nothing,no bear,no bear,no bear,nothing,no,there's no bear,nothing,no bear
+447228001,COCO_train2014_000000447228.jpg,Is the boat moving?,yes/no,0,1,0,0,0,yes,no,no,yes,yes,yes,yes,no,yes,yes
+447243002,COCO_train2014_000000447243.jpg,How many people are in the photo?,number,0,1,0,1,0,several,25,more than 10,13,many,many,23,25,5,15
+447689001,COCO_train2014_000000447689.jpg,Does the man have sun in his eyes?,yes/no,0,1,0,0,0,yes,no,yes,no,yes,no,no,yes,yes,yes
+44782005,COCO_train2014_000000044782.jpg,What does the bottom sign say on the sign post?,other,1,1,1,0,0,blue balls,wave,blue balls,blue balls,wave,wave,blue balls,can't read,wave,blue balls
+447840008,COCO_train2014_000000447840.jpg,What color are the walls?,other,0,1,1,0,0,blue,blue,blue,blue and white,blue,"blue, white","blue, white",blue,"blue, white",blue and white
+447865000,COCO_train2014_000000447865.jpg,Do you see safety scissors?,yes/no,0,1,0,0,0,no,no,yes,yes,no,no,yes,yes,no,yes
+448077000,COCO_train2014_000000448077.jpg,What is in the bottle?,other,0,1,1,0,0,my best guess is apple juice,oil,oil,oil,tea,tea,oil,oil,juice,things
+44818007,COCO_train2014_000000044818.jpg,Is this a new Mac?,yes/no,0,1,0,0,0,yes,no,yes,yes,yes,no,no,no,no,no
+448402002,COCO_train2014_000000448402.jpg,Which fruits are in the salad?,other,0,1,0,0,0,banana and orange,"orange, banana, cantaloupe","bananas, oranges, melons","oranges, bananas",orange banana cantaloupe,"banana, oranges, cantaloupe",banana,"honeydew, orange and bananas",banana,"banana, cantaloupe, oranges"
+448439001,COCO_train2014_000000448439.jpg,What city is on the man's hat?,other,1,1,0,0,0,los angeles,los angeles,los angeles,pittsburgh,la,los angeles,los angeles,la,la,la
+448560015,COCO_train2014_000000448560.jpg,How is the ground like?,other,0,1,1,0,0,grass,green,grassy,worn grass,grass,grassy,grassy,grass,green,grass clay hard
+448648011,COCO_train2014_000000448648.jpg,How many cars are there?,number,0,1,0,1,0,over 5,5,several,5,many,3,3,several,5,2
+448702001,COCO_train2014_000000448702.jpg,What does the sign say?,other,1,1,1,0,0,non potable water do not drink se prohibe beber el agua,non potable water do not drink,non potable water,non potable water do not drink se prohibe beber el agua,don't drink,non potable,non potable water do not drink,non potable water do not drink,non potable water do not drink,non potable water do not drink se prohibe beber el agua
+448826002,COCO_train2014_000000448826.jpg,What is the man in yellow doing with his left hand?,other,0,1,1,0,0,touching his face,holding chin,resting,eating,holding tennis racket,holding tennis racket,holding it under his chin,leaning his head on it,holding up his head,eating
+448887000,COCO_train2014_000000448887.jpg,How many trains cars are on the train?,number,0,1,0,1,0,2,0,0,4,at least 3,4,5,0,0,no train
+4490000,COCO_train2014_000000004490.jpg,Is the man wearing shades?,yes/no,0,1,1,0,0,yes,yes,yes,no,no,yes,yes,no,yes,yes
+449082016,COCO_train2014_000000449082.jpg,Is this sign high up in the air?,yes/no,1,1,0,0,0,no,no,yes,no,yes,tom price,yes,no,no,yes
+449158002,COCO_train2014_000000449158.jpg,Are there children in the park?,yes/no,0,1,0,0,0,no,no,no,yes,no,no,no,yes,no,yes
+449195004,COCO_train2014_000000449195.jpg,Does the bear look angry?,yes/no,0,1,0,0,0,yes,yes,no,yes,yes,no,no,yes,no,yes
+449529001,COCO_train2014_000000449529.jpg,What is the color of the buildings wall?,other,0,1,1,0,0,red,brown,brown,red,brown,red,brown,brown,ball,red
+450050000,COCO_train2014_000000450050.jpg,What number is on the bus?,number,1,1,0,1,0,6667,160,160,6667,160,160,160,160,6667,6667
+450052000,COCO_train2014_000000450052.jpg,What time is on the clock?,number,1,1,0,0,0,1:22,1:20,1:22,1:21,1:22,2 twenty,1:22,1:22,1.2,1:20
+450066002,COCO_train2014_000000450066.jpg,What time is on the clock?,number,0,1,0,1,0,noon,2 15,1:00,9:00,no clock,3:02,can't tell,0,12;00,1:00 PM
+450111007,COCO_train2014_000000450111.jpg,How long until this pizza is done?,number,1,1,0,0,0,now,5 minutes,30 minutes,15 minutes,20 minutes,it is done,10 minutes,20 minutes,20 minutes,30 min
+450117003,COCO_train2014_000000450117.jpg,Is this an adult Elephant?,yes/no,0,1,0,0,0,yes,no,no,no,yes,yes,no,yes,yes,yes
+450219007,COCO_train2014_000000450219.jpg,Why wear head protection?,other,0,1,1,0,0,safety,safety,for protection,don't get hurt,in case of fall,safety,to prevent traumatic head injuries,safety in case of fall,prevent injury,in case rider falls
+450309002,COCO_train2014_000000450309.jpg,What is the giraffe doing?,other,0,1,1,0,0,staring,standing,standing,standing,looking at camera,watching,standing,posing,standing,standing
+450434002,COCO_train2014_000000450434.jpg,What brand of doughnut shop is this?,other,1,1,1,0,0,dunkin donut,dunkin donut,dunkin donuts,dunkin',dunkin donut,dunkin donuts,dunkin donut,dunkin donuts,dunkin donuts,dunkin donuts
+450526002,COCO_train2014_000000450526.jpg,Can many people get into this vehicle?,yes/no,0,1,1,0,0,yes,no,no,yes,no,yes,1,0,no,yes
+450528002,COCO_train2014_000000450528.jpg,What time of day is this event taking place?,other,0,1,1,0,0,night time,evening,night,night,night time,evening,evening,night,night,night
+450700006,COCO_train2014_000000450700.jpg,Are all the people teenagers?,yes/no,0,1,0,0,0,no,yes,no,yes,yes,yes,yes,yes,yes,no
+450833003,COCO_train2014_000000450833.jpg,What is one player wearing knee pads?,yes/no,0,1,0,1,0,yes,yes,yes,all have knee pads,safety,4,2,yes,safety,2 are
+450940001,COCO_train2014_000000450940.jpg,Is the woman safe?,yes/no,0,1,1,0,0,no,yes,no,yes,no,yes,no,no,yes,no
+451016007,COCO_train2014_000000451016.jpg,What is this man's profession?,other,0,1,0,0,0,lawyer,motorcycle rider,office worker,cannot tell,salesman,motorcycles,bike salesman,cannot tell,motorcycle salesman,cop
+451490002,COCO_train2014_000000451490.jpg,Are these dairy cows?,yes/no,0,1,1,0,0,no,yes,no,no,no,yes,yes,yes,no,no
+451720001,COCO_train2014_000000451720.jpg,What is on the bed?,other,0,1,0,0,0,pillows,pillows,pillows,pillows,blanket,pillows,pillows,blanket,sheets,pillows
+451826001,COCO_train2014_000000451826.jpg,How many different colors are on the musical instrument?,number,0,1,1,0,0,3,4,4,3,5,4,5,3,"yellow, silver and black",4
+452087001,COCO_train2014_000000452087.jpg,What does the trash on the right include?,other,0,1,0,0,0,pipe,metal,pipes,pole,"pole, paper, wood",recycling,paper,garbage,can't tell,pipe
+452167004,COCO_train2014_000000452167.jpg,Is this person racing?,yes/no,0,1,0,0,0,yes,no,yes,yes,yes,yes,yes,yes,maybe,motorcycle
+452302004,COCO_train2014_000000452302.jpg,What animal is the boy riding?,other,0,1,1,0,0,horse,none,cow,bull,cow,boy not riding,bull,cow,bull,cow
+452302005,COCO_train2014_000000452302.jpg,Where is the boy wearing a red cap?,other,0,1,0,0,0,around shoulders,audience,no,bleachers,in audience,bleachers,behind stands,stands,bleachers,stands
+452465002,COCO_train2014_000000452465.jpg,Where are the boats?,other,0,1,1,0,0,in water,water,on water,on water,water,beach,harbor,boats,water,water
+452706022,COCO_train2014_000000452706.jpg,Does the airplane look level?,yes/no,0,1,1,0,0,yes,yes,yes,yes,no,yes,no,yes,no,yes
+452831009,COCO_train2014_000000452831.jpg,What number is the train?,other,1,1,0,1,0,73,73a,73a,73,73a,73a,73,73a,73,73a
+452912004,COCO_train2014_000000452912.jpg,How many men are there?,number,0,1,0,1,0,12,10,12,13,11,12,11,11,12,12
+45306007,COCO_train2014_000000045306.jpg,What is the elephant holding in its trunk?,other,0,1,0,0,0,fruit,food,peanut,food,food,food,food,snack,food,food
+453299000,COCO_train2014_000000453299.jpg,Is the girl wearing shoes?,yes/no,0,1,0,1,0,yes,yes,no,yes,yes,not sure,yes,yes,yes,cannot tell
+453357001,COCO_train2014_000000453357.jpg,Is this handicap friendly?,yes/no,0,1,0,0,0,no,yes,yes,yes,no,no,yes,yes,yes,yes
+453397003,COCO_train2014_000000453397.jpg,Can you describe the artwork on the wall?,other,0,1,0,0,0,cabinet,plaque,shelf,no,holder for news clippings,wood,modern emptiness,no artwork seen,no,faux window
+453552001,COCO_train2014_000000453552.jpg,What kind of celebration is this?,other,0,1,1,0,0,birthday,baby shower,baby shower,baby shower,baby shower,baby shower,birthday,birthday,birthday,baby shower
+453567006,COCO_train2014_000000453567.jpg,What is the color of the water?,other,0,1,1,0,0,green,green,blue,green,blue,blue,green,green,blue green,blue green
+453586010,COCO_train2014_000000453586.jpg,Is the water cold?,yes/no,0,1,0,0,0,yes,yes,my best guess is yes,yes,no,yes,yes,no,no,yes
+453629007,COCO_train2014_000000453629.jpg,Is that a larger than normal serving?,yes/no,0,1,0,1,0,yes,yes,no,no,no,no,no,yes,no,no
+453646003,COCO_train2014_000000453646.jpg,Are these zebra standing on a sidewalk?,yes/no,0,1,0,0,0,no,no,no,no,yes,no,yes,yes,no,yes
+453734000,COCO_train2014_000000453734.jpg,Whose flag is that man wearing?,other,0,1,1,0,0,his,italy,germany,german,germany,germany,spain,brazil,germany,spain
+454000004,COCO_train2014_000000454000.jpg,How many people are on the platform?,number,0,1,0,1,0,7,8,8,6,9,7,10,12,9,9
+454078003,COCO_train2014_000000454078.jpg,What type of vehicle is this?,other,0,1,0,0,0,army,truck,military,military,armored truck,truck,army,army,military,army truck
+454174003,COCO_train2014_000000454174.jpg,What is the name of the equipment on this truck?,other,1,1,0,0,0,tow truck,tow hook,dodge,crane,towing,tower,towing equipment,tow,tow,tow
+454219003,COCO_train2014_000000454219.jpg,How many people are in the photo?,number,0,1,0,1,0,3,2,3,3,3,1,1,3,1,1
+454255005,COCO_train2014_000000454255.jpg,How many open umbrellas?,number,0,1,0,1,0,5,5,6,5,5,6,5,6,several,6
+454477000,COCO_train2014_000000454477.jpg,How many of these possible could be drinking the wine?,number,0,1,0,1,0,4,5,5,4,6,6,7,4,all of them,7
+4546010,COCO_train2014_000000004546.jpg,What is the climate like in this area?,other,0,1,0,0,0,cloudy,warm,rainy,warm,warm,cold,chilly,cold,cold,tropical
+454636002,COCO_train2014_000000454636.jpg,Do we look like we are from the same family?,yes/no,0,1,0,0,0,yes,yes,yes,no,yes,no,yes,no,yes,no
+454680000,COCO_train2014_000000454680.jpg,How many orange signs are on the street?,number,0,1,1,1,0,10,5,7,5,5,5,5,5,6,6
+454712017,COCO_train2014_000000454712.jpg,Would Dr Seuss like that hat?,yes/no,0,1,1,0,0,no,maybe,no,no,yes,no,yes,yes,no,no
+454827000,COCO_train2014_000000454827.jpg,What does the sign mean?,other,1,1,0,0,0,rue camille sauvageau,street name,street camille sauvageau,direction,camille street,street sign,street road,rue camille sauvageau,go left,street name
+454857009,COCO_train2014_000000454857.jpg,How many people are there?,number,0,1,0,1,0,5,4,5,4,5,6,6,6,7,4
+45494002,COCO_train2014_000000045494.jpg,What's the number on the truck?,other,1,1,0,0,0,8702417491,8702417491,0870 241 7491,8702417491,241 7491,6702417491,0870 241 7491,0870 241 7491,8702417491,0870 241 7491
+455252004,COCO_train2014_000000455252.jpg,What does this kite look like?,other,0,1,1,0,0,spaceship,dragon,green dragon,dinosaur,dinosaur,triangle,bird,green plane,green triangle,plane
+455342000,COCO_train2014_000000455342.jpg,Was this photographed with a wide-angle lens?,yes/no,0,1,0,0,1,yes,no,no,yes,yes,yes,yes,no,yes,yes
+45537003,COCO_train2014_000000045537.jpg,Is anyone able to sit in this chair?,yes/no,0,1,0,0,0,no,maybe,yes,yes,yes,no,yes,yes,yes,yes
+455459000,COCO_train2014_000000455459.jpg,What are the benches facing?,other,0,1,0,0,0,water,water,hills,lake,ocean,water,water,toward water,water,water
+455473001,COCO_train2014_000000455473.jpg,Is it safe for the child to be standing there?,yes/no,0,1,0,0,0,no,no,no,no,maybe,no,yes,yes,yes,yes
+455496005,COCO_train2014_000000455496.jpg,What animal is on this person's hat?,other,0,1,0,0,0,tiger,tiger,bengal,fox,tiger,tiger,lion,tiger,tiger,tiger
+455632010,COCO_train2014_000000455632.jpg,What is this room probably used for?,other,0,1,0,0,0,"bathing, toiletry",bathing,washing,bathing,washing,bathing,bathroom,bathroom,bathing,bathing and toileting
+455658003,COCO_train2014_000000455658.jpg,Is this a new photo?,yes/no,0,1,0,0,0,no,no,yes,yes,yes,yes,maybe cannot tell,yes,no,yes
+455658009,COCO_train2014_000000455658.jpg,How many horses are there?,number,0,1,0,1,0,3,3,4,3,5,3,3,3,4,3
+455696015,COCO_train2014_000000455696.jpg,Is there anyone inside the plane?,yes/no,0,1,0,0,0,yes,no,yes,yes,no,yes,yes,no,yes,no
+455696041,COCO_train2014_000000455696.jpg,Is this man flying a jet?,yes/no,0,1,0,0,0,no,yes,yes,yes,no,no,yes,no,no,no
+455865005,COCO_train2014_000000455865.jpg,Can you see onions?,yes/no,0,1,1,0,0,no,no,no,yes,yes,no,yes,yes,no,yes
+455865009,COCO_train2014_000000455865.jpg,Is there enough for 4?,yes/no,0,1,1,0,0,no,yes,no,no,no,yes,yes,no,yes,no
+455875000,COCO_train2014_000000455875.jpg,How many umbrellas are there?,number,0,1,0,1,0,9,8,9,8,8,7,8,9,9,10
+455934004,COCO_train2014_000000455934.jpg,Is this a semi truck?,yes/no,0,1,0,0,0,yes,yes,yes,no,no,no,yes,no,yes,yes
+456042013,COCO_train2014_000000456042.jpg,How many people in this photo?,number,0,1,0,1,0,4,1,5,5,0,25,0,5,0,0
+456217001,COCO_train2014_000000456217.jpg,How many shades of pink are visible in the woman's dress?,number,0,1,1,1,0,3,2,2,3,2,2,2,3,3,3
+456351013,COCO_train2014_000000456351.jpg,Where the stop sign is fitted?,other,1,1,0,0,0,fence,on top,pole,on top,"above, pedestrian sign",above triangle,atop pole,on top of two other signs,on pole,above other signs
+456545000,COCO_train2014_000000456545.jpg,Is this picture in the United States?,yes/no,0,1,0,0,0,yes,maybe,no,yes,yes,no,yes,yes,yes,yes
+456629004,COCO_train2014_000000456629.jpg,Is this a cargo plane?,yes/no,0,1,0,0,0,no,no,no,yes,no,no,yes,yes,no,no
+456819011,COCO_train2014_000000456819.jpg,Is the glass half full?,yes/no,0,1,1,0,0,yes,yes,no,yes,no,yes,no,no,no,no
+456936000,COCO_train2014_000000456936.jpg,What is the woman holding?,other,0,1,0,0,0,phone,cell phone,phone,phone,phone,phone,phone,bag,phone,phone water book purse
+457233002,COCO_train2014_000000457233.jpg,"What are the brown, black and white animals known as?",other,0,1,1,0,0,deer and zebra,zebra,gazelles,zebras,zebras,impala,deer,gazelle,deers and zebras,zebras and deer
+457401005,COCO_train2014_000000457401.jpg,Is this a kitchen cabinet?,yes/no,0,1,0,0,0,no,yes,no,no,yes,no,no,no,no,yes
+457514001,COCO_train2014_000000457514.jpg,Is the person riding on pavement?,yes/no,0,1,0,0,0,yes,no,yes,yes,yes,no,no,yes,no,no
+457586021,COCO_train2014_000000457586.jpg,Is this a well styled bathroom?,yes/no,0,1,0,0,0,no,no,yes,yes,no,yes,no,yes,yes,yes
+457824001,COCO_train2014_000000457824.jpg,What color are the trees?,other,1,1,1,0,0,green,green,green,green,brown,brown,brown and green,green,green,green
+45792001,COCO_train2014_000000045792.jpg,What style of image is this?,other,0,1,1,0,0,segmented,different settings,collage,chinese,selfie,collage,collage,collage,collage,multiple frames
+457962000,COCO_train2014_000000457962.jpg,Is the man feeding the child?,yes/no,0,1,0,0,0,he's hungry,no,no,yes,donut,yes,yes,yes,yes,yes
+457976001,COCO_train2014_000000457976.jpg,What color are the cows?,other,0,1,1,0,0,brown and white,white,black & white,black and white,brown & white,brown and white,black and white,brown and white,brown and white,"black, white"
+458016000,COCO_train2014_000000458016.jpg,What are the numbers on the train?,number,1,1,0,0,0,1326,0,1116264,1154361,1116 264,1196 264,116-264,obb,1118 284,1116264
+458089003,COCO_train2014_000000458089.jpg,What type of shoes is the man wearing?,other,0,1,0,0,0,tennis,tennis shoes,tennis,tennis shoes,tennis,tennis shoes,tennis shoes,tennis shoes,tennis,tennis
+458132000,COCO_train2014_000000458132.jpg,Why is this bear in a tree?,other,0,1,0,0,0,memorial,to pose for picture,taking picture,someone put it there,prank,abandoned,as reminder,unsure,someone threw it,child put there
+458184004,COCO_train2014_000000458184.jpg,What is the orange food called?,other,0,1,1,0,0,orange,orange,orange,orange,oranges,orange,oranges,oranges,oranges,orange
+458232007,COCO_train2014_000000458232.jpg,What shape is painted on the floor?,other,0,1,1,0,0,square,baseball field,base,diamond,pentagon,diamond,baseball diamond,house,baseball field,baseball field
+45829002,COCO_train2014_000000045829.jpg,Who is next to Mario?,other,0,1,0,0,0,donkey kong,donkey kong,monkey,donkey kong,man,donkey kong,donkey kong,donkey kong,monkey,donkey kong
+458336000,COCO_train2014_000000458336.jpg,Are the waves small?,yes/no,0,1,1,0,0,yes,yes,yes,yes,no,no,no,yes,yes,no
+458355004,COCO_train2014_000000458355.jpg,What is the man doing?,other,0,1,1,0,0,batting,batting,swinging bat,swinging bat,swinging,hitting baseball,batting,swinging bat,batting,baseball
+458355010,COCO_train2014_000000458355.jpg,What color hat is the man in the white t-shirt wearing?,other,0,1,1,0,0,black,black,black and white,navy and white,black,navy blue,blue and white,black,black with white stripes,black and white
+45836002,COCO_train2014_000000045836.jpg,What animal is on the blanket?,other,0,1,0,0,0,teddy bears,teddy bear,bear,bears,teddy bear,bear,bear,bear,teddy bear,bear
+458568000,COCO_train2014_000000458568.jpg,What time is it?,number,0,1,0,1,0,4:39,4:40,4:39,4:38,4:38,4:39,4:35,4:40,4:39,4:38
+458586000,COCO_train2014_000000458586.jpg,Do the bears look mean?,yes/no,0,1,0,0,0,no,no,no,yes,no,no,yes,yes,no,no
+458633001,COCO_train2014_000000458633.jpg,Is this an ox?,yes/no,0,1,0,0,0,yes,no,yes,yes,yes,yes,no,yes,no,yes
+458785001,COCO_train2014_000000458785.jpg,What time does the clock read?,number,0,1,1,0,1,1:50,6:00,12:53,unsure,12:55,11:05,noon,12:55,1:00,12:55
+458856014,COCO_train2014_000000458856.jpg,Was the building on the right built before 1900?,yes/no,0,1,0,0,1,style is,yes,yes,no,yes,no,yes,yes,no,yes
+459147004,COCO_train2014_000000459147.jpg,Are the windows open?,yes/no,0,1,0,0,0,yes,yes,yes,no,no,no,yes,yes,yes,yes
+459248003,COCO_train2014_000000459248.jpg,How many sets of tracks?,number,0,1,0,1,0,2,2,2,2,1,1,1,1,2,1
+459401001,COCO_train2014_000000459401.jpg,What number of spots on the giraffe are orange?,number,0,1,1,1,0,many,0,0,40,0,0,0,42,several,200
+459712002,COCO_train2014_000000459712.jpg,What animal is on the leash?,other,0,1,0,0,0,yes,dog,lab,dog,dog,dog,dog,dog,dog,yes
+459765001,COCO_train2014_000000459765.jpg,What is green in the picture?,other,0,1,1,0,0,trees,grass,trees,trees,trees,trees,trees,tree,tree,tree
+460055008,COCO_train2014_000000460055.jpg,Is it winter time?,yes/no,0,1,0,0,0,no,no,no,no,"yes, it is",yes no,no,no,yes,no
+460202002,COCO_train2014_000000460202.jpg,Which animal is on top of which animal?,other,0,1,0,0,0,cat over dog,cat,cat,cat on dog,cat,cat on dog,cat on top of dog,cat,cat on dog,cat on dog
+460408002,COCO_train2014_000000460408.jpg,Is the food pyramid properly represented here?,yes/no,1,1,0,0,0,yes,no,yes,yes,no,yes,no,yes,no,no
+460415001,COCO_train2014_000000460415.jpg,Is it raining?,yes/no,0,1,1,0,0,yes,yes,yes,no,no,yes,yes,no,yes,no
+460459004,COCO_train2014_000000460459.jpg,Is the man falling?,yes/no,0,1,0,0,0,yes,yes,no,yes,no,yes,yes,no,yes,no
+460643006,COCO_train2014_000000460643.jpg,How many packages are wrapped in brown paper?,number,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0
+460665001,COCO_train2014_000000460665.jpg,Can you count the windows visible in the background?,yes/no,0,1,0,1,0,no too many,yes,no,no,no,no,yes,"no, too many",no,no
+460694000,COCO_train2014_000000460694.jpg,Was a beverage served?,other,0,1,0,0,0,coffee,coffee,latte,yes,yes,yes,coffee,yes,coffee,yes
+460830003,COCO_train2014_000000460830.jpg,How many topping slices do you see?,number,1,1,0,1,0,1,8,6,8,1,29,1,12,15,20
+461114062,COCO_train2014_000000461114.jpg,What number is on this cake?,number,1,1,0,0,0,no number,3,no number,2,3,3,3,5,3,3
+461114098,COCO_train2014_000000461114.jpg,Is the boy sad?,yes/no,0,1,0,0,0,yes,no,no,no,no,yes,no,yes,no,no
+461208019,COCO_train2014_000000461208.jpg,How men are in the photo?,number,0,1,0,1,0,2,1,2,2,2,3,1,3,2,1
+461211005,COCO_train2014_000000461211.jpg,How many people are seated in this picture?,number,0,1,0,1,0,0,1,1,1,0,1,1,0,1,1
+461211007,COCO_train2014_000000461211.jpg,Are there more men than women in this photo?,yes/no,0,1,0,1,0,no,yes,no,no,women,no,yes,women,no,no
+461252002,COCO_train2014_000000461252.jpg,Has the meal begun?,yes/no,0,1,0,0,0,yes,no,no,no,yes,no,no,no,yes,no
+461498002,COCO_train2014_000000461498.jpg,What kind of bird is this?,other,0,1,0,0,0,sorrow,finch,hummingbird,robin,golden-crowned kinglet,sparrow,warbler,tweeting bird,cardinal,finch
+461535026,COCO_train2014_000000461535.jpg,What is the man about to walk past?,other,0,1,1,0,0,trees,snow,tree,another man,trees,tree,tree,man,trees,nothing
+461744006,COCO_train2014_000000461744.jpg,Do these animals appear related?,yes/no,0,1,0,0,0,no,no,no,no,yes,no,no,no,yes,yes
+462040001,COCO_train2014_000000462040.jpg,What are the people doing?,other,0,1,0,0,0,flying kites,flying kites,parasailing,kitesurfing,flying kites,flying kites,flying kites,kitesurfing,flying kites,hang gliding
+462114002,COCO_train2014_000000462114.jpg,Is the person going up or coming down?,other,0,1,1,0,0,coming down,coming down,down,down,up,down,coming down,coming down,down,coming down
+462131002,COCO_train2014_000000462131.jpg,How many stalls are there?,number,0,1,0,1,0,4,2,3,2,4,1,4,2,4,3
+462164000,COCO_train2014_000000462164.jpg,How many teddy bears in the picture?,number,0,1,0,1,0,9,12,12,9,7,10,10,9,lot,12
+462186001,COCO_train2014_000000462186.jpg,Is this person attempting a stunt or are they falling?,other,0,1,0,0,0,stunt,falling,stunt,stunt,stunt attempt,stunt,falling,stunt,stunt,stunt
+462186007,COCO_train2014_000000462186.jpg,What is the person wearing on their feet?,other,0,1,0,0,0,skis,skis,boots,skis,ski boots,shoe boots,skis,skis,skis,skis
+462401000,COCO_train2014_000000462401.jpg,Could the day be a bit cool?,yes/no,0,1,1,0,0,no,yes,no,no,yes,no,yes,yes,no,no
+46242011,COCO_train2014_000000046242.jpg,How many trees are there?,number,0,1,1,1,0,16,several,8,8,many,30,10,14,34,8
+462599002,COCO_train2014_000000462599.jpg,What are the ribbons for?,other,0,1,0,0,0,winners,winners,prizes,competition,prize,competition entries,winners,winners,decoration,competition
+462811002,COCO_train2014_000000462811.jpg,What type of cake is this?,other,0,1,1,0,0,red velvet,red velvet,red velvet,chocolate,red velvet cake,spice cake,chocolate,red velvet,carrot,red velvet
+462847002,COCO_train2014_000000462847.jpg,Who is doing the dishes?,other,0,1,0,0,0,mom,man,they are in bathroom,woman,woman,woman,lady,lady,mother,woman
+462872000,COCO_train2014_000000462872.jpg,Are the train windows open?,yes/no,0,1,0,0,0,no,no,no,no,no,one is,yes,yes,no,no
+462974001,COCO_train2014_000000462974.jpg,How many flowers are in this picture?,number,0,1,0,1,0,10,8,9,55,10,lot,9,53,9,many
+463019001,COCO_train2014_000000463019.jpg,What is the bench made of?,other,0,1,1,0,0,metal and wood,metal and wood,metal and wood,wood and metal,metal and wood,metal,wood and iron,wood and metal,wood,iron and wood
+463108002,COCO_train2014_000000463108.jpg,Is this a train station?,yes/no,0,1,1,0,0,yes,no,yes,yes,no,yes,yes,maybe,yes,no
+46322001,COCO_train2014_000000046322.jpg,Is there a woman in the photo?,yes/no,1,1,1,0,0,yes,no,yes,yes,yes,no,yes,yes,no,no
+463482005,COCO_train2014_000000463482.jpg,Is he in the water?,yes/no,0,1,0,0,0,yes,yes,no,no,yes,yes,yes,yes,no,yes
+463482006,COCO_train2014_000000463482.jpg,How many people are standing on surfboards?,number,0,1,0,1,0,1,1,1,6,1,1,6,1,6,1
+463581005,COCO_train2014_000000463581.jpg,What number is shown on the tail and on the side?,number,1,1,0,1,0,n204re,20,n204re,n204re sr20,204,20,"n204re, sr20",20,202,2092
+463589000,COCO_train2014_000000463589.jpg,Is this ready to eat?,yes/no,0,1,1,0,0,yes,yes,no,no,no,no,yes,yes,yes,no
+463616004,COCO_train2014_000000463616.jpg,Why is the sink almost over the tub?,other,0,1,0,0,0,unknown,bathroom tiny,it's tight space,too big,space,very small bathroom,small room,put there,bathroom is very limited in space,space
+463665003,COCO_train2014_000000463665.jpg,What kind of bird are these?,other,0,1,1,0,0,storks,herring,crane,seagulls,heron,cranes,not sure,cranes,cranes,stork
+463823009,COCO_train2014_000000463823.jpg,Could that sign be considered a historical landmark?,yes/no,1,1,0,0,0,yes,yes,yes,no,yes,no,yes,yes,yes,no
+464744003,COCO_train2014_000000464744.jpg,What time is it in the photo?,number,1,1,0,0,0,daytime,10:19,14:10,12;15,14:19,14:19,unknown,14:50,14:19,daytime
+464854000,COCO_train2014_000000464854.jpg,How many people are seated?,number,0,1,0,1,0,9,9,8,9,7,8,9,9,8,7
+464937003,COCO_train2014_000000464937.jpg,Are the fruits white?,yes/no,0,1,1,0,0,some,yes,no,no,some are,yes,no,no,no,no
+465060000,COCO_train2014_000000465060.jpg,What time does the clock show?,number,1,1,0,1,0,8:56,8:55,856,8:55,8:56,8:56,9:56,8:56,9:00,8:56
+465169004,COCO_train2014_000000465169.jpg,Where is the man wearing sunglasses?,other,0,1,0,0,0,yes,no,his face,on his face,by steps,on his face,sunny,no,yes,in woods
+465198002,COCO_train2014_000000465198.jpg,What is the color of the player short pants?,other,0,1,1,0,0,purple,purple,purple,purple,pink,pink,purple,pink,black,purple
+465213001,COCO_train2014_000000465213.jpg,How many lamps are on the counter ??,number,0,1,0,1,0,1,1,2,1,1,2,1,1,1,2
+46524013,COCO_train2014_000000046524.jpg,Is the woman wearing jewelry?,yes/no,0,1,0,0,0,no,yes,no,yes,no,yes,yes,no,no,no
+465266001,COCO_train2014_000000465266.jpg,Is this how the stop sign was originally intended to look?,yes/no,0,1,1,0,0,no,no,yes,yes,yes,no,yes,yes,yes,yes
+465351005,COCO_train2014_000000465351.jpg,What sport is the boy playing?,other,0,1,0,0,0,kite,katie,kite,kite flying,flying kite,kite flying,kiting,kite flying,flying kite,kites
+465467000,COCO_train2014_000000465467.jpg,Why isn't the grass green in this picture?,other,0,1,1,0,0,film is black and white,black and white,picture is black and white,black white photo,black and white,it's black and white photo,picture in black and white,picture is black and white,black and white photo,it's black and white photo
+465468014,COCO_train2014_000000465468.jpg,What number is on the black shirt?,number,1,1,0,1,0,30,5,unknown,unknown,8,5,8,2,1,0
+465529000,COCO_train2014_000000465529.jpg,Is this person smoking?,yes/no,0,1,1,0,0,yes,yes,yes,no,yes,no,no,yes,no,yes
+465677000,COCO_train2014_000000465677.jpg,What are the people viewing in the picture?,other,0,1,0,0,0,palm trees,building,skateboarder,skateboarding,skateboarders,beach,trees,skateboard,skateboard,skateboarder
+466070011,COCO_train2014_000000466070.jpg,Are there high mountains in this photo?,yes/no,0,1,0,0,0,no,yes,no,no,no,yes,no,no,no,yes
+466352001,COCO_train2014_000000466352.jpg,Are they fully grown?,yes/no,0,1,0,0,0,no,yes,no,yes,no,no,yes,no,yes,yeah
+466395000,COCO_train2014_000000466395.jpg,Do you think he will land this trick?,yes/no,0,1,1,0,0,yes,no,no,yes,yes,yes,yes,no,no,yes
+466406008,COCO_train2014_000000466406.jpg,What brand is this equipment?,other,1,1,0,0,0,dell,apple,wireless,apple,apple,apple,mac,apple,wireless,wireless
+466580004,COCO_train2014_000000466580.jpg,Is there a shadow in the scene?,yes/no,0,1,1,0,0,no,yes,no,yes,no,no,yes,no,no,yes
+466694005,COCO_train2014_000000466694.jpg,How many people are wearing plaid shirts?,number,0,1,1,1,0,2,1,2,1,2,1,1,2,3,3
+466713016,COCO_train2014_000000466713.jpg,What is the color of the sky?,other,0,1,1,0,0,orange and blue,blue and orange,"blue, white, and pink","blue, orange",blue,blue and yellow,blue and orange,blue,orange to blue,blue
+466714002,COCO_train2014_000000466714.jpg,Is this an energy-efficient appliance?,yes/no,0,1,0,0,0,yes,yes,no,maybe,no,yes,yes,yes,yes,yes
+466730010,COCO_train2014_000000466730.jpg,How many people have bikes?,number,0,1,0,1,0,0,0,5,6,5,5,5,0,0,7
+466730012,COCO_train2014_000000466730.jpg,What brand of bike do these men have?,other,1,1,0,0,0,harley,various brands,rm,harley,rm,rm,harley,honda,rm,harley davidson
+466730020,COCO_train2014_000000466730.jpg,Are all of the tires facing the same way?,yes/no,0,1,1,0,0,yes,yes,yes,yes,yes,no,no,yes,no,yes
+466845001,COCO_train2014_000000466845.jpg,Are the animals or people caged in?,other,0,1,0,0,0,people caged in,animals,people,animals,people,animals,people,animal,animals,yes
+467050006,COCO_train2014_000000467050.jpg,How many bricks is this wall made out of?,number,0,1,0,1,0,100,many,more than million,111,45,100,435,many,100,100
+467256000,COCO_train2014_000000467256.jpg,What does the sign say?,other,1,0,0,0,0,danger keep out,danger low coil,keep out,keep out,danger keep out,"danger, keep out",danger,danger,"danger, move on",danger
+467431003,COCO_train2014_000000467431.jpg,Where is the man at?,other,0,1,0,0,0,floor,living room,on floor,living room,floor,living room,living room,ground,living room,living room
+467431006,COCO_train2014_000000467431.jpg,Which wood is used for floors?,other,0,1,1,0,0,wood,oak,oak,pine,hardwood,fiberboard,walnut,hardwood,oak,hard
+467645001,COCO_train2014_000000467645.jpg,Is the banana in the scene going bad?,yes/no,0,1,1,0,0,yes,no,yes,no,yes,no,yes,yes,yes,yes
+467763004,COCO_train2014_000000467763.jpg,What continent is the picture taken in?,other,1,1,0,0,0,noodle,asia,not sure,north american,asia,asia,europe,asia,london,europe
+467799005,COCO_train2014_000000467799.jpg,What is the person with the number 10 on his back doing?,other,0,1,1,0,0,batting,swinging bat,batting,batting,batting,hitting,batting,batting,bunting ball,hitting
+467939002,COCO_train2014_000000467939.jpg,How many sandwich pieces are there?,number,0,1,0,1,0,4,10,10,10,10,5,10,4,10,10
+468100002,COCO_train2014_000000468100.jpg,What is the idea of a sign that says that?,other,1,1,0,0,0,city or town name,warning,place name,city sign,foreign town name,someone was mad,joke,sex,no clue,no idea
+468529000,COCO_train2014_000000468529.jpg,What color are the lamps?,other,0,1,1,0,0,blue,orange,brown gold,multicolored,multicolored,yellow,brown and yellow,multi,yellow,blue
+468538001,COCO_train2014_000000468538.jpg,How much toothpaste is on this toothbrush?,number,1,1,0,1,0,0,0,no,0,0,1,0,0,half,0
+468619001,COCO_train2014_000000468619.jpg,What are the flowers sitting in?,other,0,1,0,0,0,glass,glass,glass,vase,vase,glass,glass,wine glass,wine glass,vase
+468648001,COCO_train2014_000000468648.jpg,Is this person a professional surf boarder?,yes/no,0,1,1,0,0,no,green,yes,yes,no,yes,no,no,no,yes
+468818000,COCO_train2014_000000468818.jpg,Is the man on the right holding the frisbee or actively passing it to the man on the left?,other,0,1,0,0,0,he is passing it,passing,passing it,actively passing,holding,no,passing frisbee,holding,passing,passing
+468932007,COCO_train2014_000000468932.jpg,Is this person likely very experienced skiing?,yes/no,1,1,0,0,0,yes,no,yes,no,yes,yes,yes,no,yes,yes
+469170001,COCO_train2014_000000469170.jpg,How many men are here?,number,0,1,0,1,0,2,3,yes,4,2,4,2,4,2,3
+469274006,COCO_train2014_000000469274.jpg,What is in the bag?,other,0,1,0,0,0,sports equipment,carrying,grass,unsure,not sure,frisbee,leaves,unknown,frisbee,nothing
+469625013,COCO_train2014_000000469625.jpg,What is the person doing?,other,0,1,0,0,0,surfing,surfing,surfing,surfing,walking,surfing,walking into ocean,surfing,standing,surfing
+469639000,COCO_train2014_000000469639.jpg,How many boats do you see?,number,0,1,0,1,0,11,15,21,30,20,15,20,13,15,4
+469658004,COCO_train2014_000000469658.jpg,Is this in America?,yes/no,0,1,1,0,0,no,yes,maybe,no,yes,yes,i don't know,yes,no,yes
+469658013,COCO_train2014_000000469658.jpg,What kind of service truck is this?,other,1,1,0,0,0,heaver bros,mercedes benz,tow,heaver bros,semi,tow,tow truck,tow,tow truck,tow truck
+469873000,COCO_train2014_000000469873.jpg,How many rolls of toilet paper are there?,number,0,1,1,1,0,7,2,8,8,7,7,9,6,5,8
+469973002,COCO_train2014_000000469973.jpg,How old is the boy in this picture?,number,0,1,0,0,0,young,12,6,5,young,7,10,7,7,12
+470028000,COCO_train2014_000000470028.jpg,Is the woman barefoot?,yes/no,0,1,0,0,0,yes,no,yes,yes,yes,yes,no,yes,no,no
+470053004,COCO_train2014_000000470053.jpg,What has been used to mark the ground?,other,0,1,0,0,0,chalk,chalk,chalk,chalk,paint,chalk,white paint,chalk,chalk,paint
+4702000,COCO_train2014_000000004702.jpg,What is on the man's head?,other,0,1,1,0,0,soccer ball,kickball,soccer ball,ball,ball,ball,soccer ball,soccer ball,ball,soccer ball
+470411000,COCO_train2014_000000470411.jpg,Is this animal at all related to a horse?,yes/no,0,1,1,0,0,yes,yes,no,no,yes,yes,yes,yes,yes,no
+470472003,COCO_train2014_000000470472.jpg,What is on the man's face?,other,0,1,1,0,0,glasses,beard,glasses,sunglasses,sunglasses,beard,sunglasses,glasses,glasses,sunglasses
+470551002,COCO_train2014_000000470551.jpg,How many players are in the dugout?,number,0,1,0,1,0,3,3,4,4,4,4,2,3,4,5
+470798010,COCO_train2014_000000470798.jpg,Is this dog's tail wagging?,yes/no,0,1,1,0,0,yes,yes,yes,yes,yes,yes,no,no,yes,no
+470951000,COCO_train2014_000000470951.jpg,What color scheme was this photo taken in?,other,0,1,1,0,0,black and orange,summer,color,colored,blue,close up,color,normal,not sure,blue and yellow
+471020001,COCO_train2014_000000471020.jpg,What color is the stop light?,other,0,1,1,0,0,can't see color,red,yellow,yellow,yellow,red,yellow,yellow,yellow,yellow
+471098002,COCO_train2014_000000471098.jpg,Does the man in the picture give a clue to the sport he is playing?,yes/no,0,1,0,0,0,yes,yes,yes,yes,frisbee,no,no,yes,yes,frisbee
+471182000,COCO_train2014_000000471182.jpg,Is this a pet store?,yes/no,0,1,0,0,0,yes,yes,no,yes,yes,no,no,no,yes,no
+471245000,COCO_train2014_000000471245.jpg,Is there a glass of orange juice?,yes/no,0,1,0,0,0,no,yes,no,yes,no,yes,no,yes,yes,yes
+47125002,COCO_train2014_000000047125.jpg,How many birds are in the picture?,number,0,1,0,1,0,4,3,4,4,4,3,4,3,5,3
+471261000,COCO_train2014_000000471261.jpg,Is she serving the ball?,yes/no,0,1,1,0,0,no,no,yes,yes,no,yes,no,yes,yes,yes
+471507000,COCO_train2014_000000471507.jpg,How many sets of traffic lights can be seen?,number,0,1,0,1,0,5,2,5,2,6,4,4,4,4,2
+471514001,COCO_train2014_000000471514.jpg,Is this person on the snowboard  a hipster?,yes/no,0,1,0,0,0,don't know,no,yes,yes,no,no,yes,no,yes,no
+47172006,COCO_train2014_000000047172.jpg,What is the name of the plant in the foreground of the picture?,other,0,1,0,0,0,grass,fern,grass,tree,grass,grass,weed,grass,grass,grass
+472027001,COCO_train2014_000000472027.jpg,Why is the man in black there?,other,0,1,1,0,0,to umpire,ump,umpire,umpire,calls,umpire,umpire,umpire,umpire,umpire baseball game
+472444001,COCO_train2014_000000472444.jpg,Is it sunny out?,yes/no,0,1,1,0,0,yes,no,no,yes,yes,yes,no,no,no,yes
+472553009,COCO_train2014_000000472553.jpg,Is the man young?,yes/no,0,1,0,0,0,no,yes,no,no,yes,no,no,yes,no,no
+472607001,COCO_train2014_000000472607.jpg,Is the skater good at the sport?,yes/no,0,1,1,0,0,yes,yes,unknown,yes,no,yes,yes,yes,no,yes
+472700000,COCO_train2014_000000472700.jpg,Are these stuffed animals moldy?,yes/no,0,1,1,0,0,no,yes,no,yes,no,yes,yes,yes,no,yes
+472841000,COCO_train2014_000000472841.jpg,Do the fence planks go horizontally or vertically?,other,0,1,1,0,0,horizontally,horizontally,horizontally,vertically,horizontal,vertical,horizontally,horizontally,horizontally,vertical
+472861001,COCO_train2014_000000472861.jpg,The color of the stove's smoke vent is what?,other,0,1,1,0,0,silver,black,brown,brown,brown,brown,silver,black,black,white
+473070000,COCO_train2014_000000473070.jpg,Is this street in the United States?,yes/no,0,1,0,0,0,yes,no,no,yes,yes,yes,yes,maybe,yes,no
+473102007,COCO_train2014_000000473102.jpg,What is the woman on the right wearing on her head?,other,0,1,0,0,0,nothing,nothing,nothing,nothing,hat,hair,nothing,nothing,hear,nothing
+473254011,COCO_train2014_000000473254.jpg,What color are the plates?,other,0,1,1,0,0,beige,white,white and brown,white,white,white,white,white,white,white and brown
+473326001,COCO_train2014_000000473326.jpg,What is the person below wearing?,other,0,1,0,0,0,motorcycle riding leathers and helmet,motorcycle clothing ( above not below),leather jacket,leather,leather,helmet,leather,leather jacket and pants,no,black leather
+473516003,COCO_train2014_000000473516.jpg,How many stools are under the table?,number,0,1,0,1,0,6,6,2,0,1,6,6,6,6,6
+473516008,COCO_train2014_000000473516.jpg,Would one call this style of furnishing a bit minimal?,yes/no,0,1,0,0,1,no,no,yes,no,no,yes,no,yes,yes,no
+473595001,COCO_train2014_000000473595.jpg,Did this suitcase recently fly?,yes/no,0,1,0,0,0,yes,yes,no,no,yes,no,yes,no,no,no
+473726011,COCO_train2014_000000473726.jpg,What time does the clock say?,number,1,1,0,1,0,we build pages,11:19,11:20,11:18,11:19,11:19,11:19,11:19,11:18,we build pages
+473762002,COCO_train2014_000000473762.jpg,What does this man's shirt say?,number,1,1,0,0,0,i plant trees,i plant trees,plant trees,i plant trees,i plant trees,plant trees,i plant trees,i plant trees,i plant trees,plant trees
+473776011,COCO_train2014_000000473776.jpg,Will it hurt the person if he falls?,yes/no,0,1,0,0,0,no,yes,yes,no,no,yes,yes,no,no,yes
+473993000,COCO_train2014_000000473993.jpg,Is this a professional snowboarder?,yes/no,0,1,0,0,0,yes,no,yes,yes,yes,yes,no,yes,no,no
+474049018,COCO_train2014_000000474049.jpg,Is there more than one lamp on this workstation?,yes/no,0,1,0,1,0,no,yes,no,no,no,yes,yes,yes,yes,yes
+474105000,COCO_train2014_000000474105.jpg,What color is the blanket on the bed?,other,0,1,1,0,0,tan,beige,tan,silver,tan,gray,gray,tan,gray,gray
+474453002,COCO_train2014_000000474453.jpg,Are these animals eating?,yes/no,0,1,0,0,0,grass,grass,yes,yes,yes,yes,yes,grass,yes,yes
+474568001,COCO_train2014_000000474568.jpg,How many propellers on the plane?,number,0,1,0,1,0,0,2,2,2,2,2,0,0,0,0
+474785000,COCO_train2014_000000474785.jpg,Who is in the chair?,other,0,1,0,0,0,nobody,no one,no one,person,not sure,person,man,nobody,no one,no one
+474955013,COCO_train2014_000000474955.jpg,Is the person trying to go down a ski slope?,yes/no,0,1,1,0,0,yes,no,down,no,yes,no,yes,yes,no,no
+474955055,COCO_train2014_000000474955.jpg,Is there enough snow to ski?,yes/no,0,1,0,0,0,no,no,yes,yes,yes,no,yes,yes,no,yes
+475158001,COCO_train2014_000000475158.jpg,How many faces can be seen?,number,0,1,0,1,0,1,2,1,2,1,2,1,1,1,2
+475336016,COCO_train2014_000000475336.jpg,Where is a butter knife?,other,0,1,0,0,0,near top of picture,above plate,left side of plate,on right,next to plate,behind plate,placemat,right,next to plate,placemat
+475441004,COCO_train2014_000000475441.jpg,What brand is this motorcycle?,other,1,1,0,0,0,ducati,victory,victory,harley davidson,bmw,honda,harley davidson,honda,harley,honda
+475443004,COCO_train2014_000000475443.jpg,Is the person on the left going surfing or leaving the beach?,other,0,1,0,0,0,leaving,surfing,leaving,leaving,surfing,leaving,surfing,leaving,leaving,going surfing
+475571000,COCO_train2014_000000475571.jpg,What sport is he playing?,other,0,1,0,0,0,phone,texting,phone,basketball,none,boxing,video game,no sport,none,no sport
+47617001,COCO_train2014_000000047617.jpg,Is this picture taken in the midwest?,yes/no,0,1,0,0,1,no,no,no,yes,no,yes,no,yes,yes,yes
+476380005,COCO_train2014_000000476380.jpg,Is the correct silverware in the picture needed to eat the pizza?,yes/no,0,1,0,0,0,no,no,yes,yes,yes,fork,no,yes,no,yes
+476447001,COCO_train2014_000000476447.jpg,Is the person cold?,yes/no,0,1,0,0,0,no,yes,no,yes,yes,no,yes,no,yes,yes
+476463010,COCO_train2014_000000476463.jpg,What is the woman wearing on her face?,other,0,1,0,0,0,makeup,makeup,hair,makeup,makeup,nothing,nothing,hair,makeup,nothing
+476463012,COCO_train2014_000000476463.jpg,Does she have a pixie haircut?,yes/no,0,1,0,0,0,yes,no,no,yes,yes,yes,yes,yes,no,yes
+476530002,COCO_train2014_000000476530.jpg,What is separating the cat from the outdoors?,other,0,1,0,0,0,screen window,window screen,glass,window,glass,window,window,screen,glass,window
+476607006,COCO_train2014_000000476607.jpg,Do any of the people have an outfit with no red in it?,yes/no,0,1,1,0,0,yes,3,yes,boy,yes,no,yes,yes,yes,yes
+477031004,COCO_train2014_000000477031.jpg,Can you hang this bear?,yes/no,0,1,0,0,0,no,no,yes,yes,yes,yes,yes,no,no,no
+477331001,COCO_train2014_000000477331.jpg,Are all the women wearing goggles?,yes/no,0,1,1,0,0,no,yes,no,yes,yes,yes,yes,yes,no,yes
+47734010,COCO_train2014_000000047734.jpg,Do the people know each other?,yes/no,0,1,0,0,0,yes,yes,yes,no,yes,no,no,yes,yes,no
+477471002,COCO_train2014_000000477471.jpg,Is this a horse race?,yes/no,0,1,0,0,0,no,no,no,yes,yes,yes,yes,no,no,no
+477590002,COCO_train2014_000000477590.jpg,How many trains are on the track?,number,0,1,0,1,0,2,1,1,1,1,2,1,2,1,1
+47767000,COCO_train2014_000000047767.jpg,How many years has the pizzeria been in business?,number,1,1,0,1,0,65,65,65,65,65 years,69,69 years,69,since 1946,69
+477782004,COCO_train2014_000000477782.jpg,Are there benches?,yes/no,0,1,1,0,0,yes,yes,yes,no,no,no,no,no,yes,yes
+477782008,COCO_train2014_000000477782.jpg,What are behind the boy?,other,0,1,1,0,0,fence,dugout,helmets,nothing,fence,fence,fence,dugout,fence,fences
+477782032,COCO_train2014_000000477782.jpg,How old is this boy?,number,0,1,0,1,0,7,6,6,10,maybe 8,10,5,7,young,6
+477807002,COCO_train2014_000000477807.jpg,How many people are in the crowd?,number,0,1,0,1,0,20,20,30,several,17,100,more than 20,hundreds,25,25
+478154004,COCO_train2014_000000478154.jpg,Is there a stop sign?,yes/no,0,1,0,0,0,yes,no,no,no,no,yes,no,yes,no,no
+478298003,COCO_train2014_000000478298.jpg,What is on the floor tiles?,other,0,1,1,0,0,shoes,"baby seat, rubber band",toys,carpet,car seat,rug,rug,carpet,white,baby's car seat
+478726001,COCO_train2014_000000478726.jpg,Was a beverage served?,yes/no,1,1,0,0,0,yes,wine,yes,yes,yes,yes,beer,yes,yes,birthday cake
+478738004,COCO_train2014_000000478738.jpg,Is it ok to cross the street?,yes/no,0,0,0,0,0,no,yes,no,no,no,yes,no,yes,no,no
+478738007,COCO_train2014_000000478738.jpg,What is the average price of items for sale at the store?,number,1,1,0,1,0,100,20,100,100,$40-70,cheap,5.99,$5,$100.00,n/a
+478802000,COCO_train2014_000000478802.jpg,Can you name the performer in the purple costume?,other,0,1,1,0,0,leah michelle,no,lady gaga,no,no,no,catwoman,barbara,hit girl?,no
+478985006,COCO_train2014_000000478985.jpg,How many windows?,number,0,1,0,1,0,many,12,12,15,12,many,15,12,12,14
+479101002,COCO_train2014_000000479101.jpg,Is there water?,yes/no,0,1,0,0,0,no,below,no,no,no,no,no,yes,yes,yes
+479134001,COCO_train2014_000000479134.jpg,What animal is thirsty?,other,0,1,0,0,0,dog,yes,cat,dog,yes,dog,dog,cat,dog,dog
+479272000,COCO_train2014_000000479272.jpg,What brand does the logo on the girl's sleeve represent?,other,1,1,0,0,0,adidas,champion,champion,champion,obama,sport logo,champion,reebok,champion,adidas
+479333003,COCO_train2014_000000479333.jpg,What is the man wearing?,other,0,1,1,0,0,jacket,jacket,coat,snowsuit,snowsuit,gloves,ski gear,skis,jacket,black snowsuit
+479372038,COCO_train2014_000000479372.jpg,Is he wearing a hat?,yes/no,0,1,0,0,0,no,no,nobody pictures,no,no,no,no,no people,no,mp
+479372050,COCO_train2014_000000479372.jpg,How tall are the poles?,number,0,1,0,0,0,very,very,15 feet,3 stories,25 feet,20 feet,25,taller than house,yes,20 feet
+479372063,COCO_train2014_000000479372.jpg,What three numbers are on the building in the background?,number,1,1,0,1,0,699,600,"2, 6, and 0",2 0 6,698,2 6 0,200,2 and 6,600,2 6 0
+479372085,COCO_train2014_000000479372.jpg,How many windows are in the photo?,number,0,1,0,1,0,10,r11,10,15,9,8,13,13,7,about 11
+479582002,COCO_train2014_000000479582.jpg,Is this a dog a lifesaver?,yes/no,0,1,0,0,0,yes,yes,yes,no,no,no,no,no,no,yes
+479590000,COCO_train2014_000000479590.jpg,Is this a medieval town?,yes/no,0,1,0,0,0,yes,yes,no,no,no,yes,yes,no,no,no
+479591004,COCO_train2014_000000479591.jpg,Can I turn left on Beatty Road?,yes/no,0,1,1,0,0,yes,yes,no,no,no,no,?,no,no,no
+479593006,COCO_train2014_000000479593.jpg,What city is this?,other,0,1,0,0,0,paris,london,new york,san francisco,new york,new york,unknown,new york,rainy,unknown
+479620001,COCO_train2014_000000479620.jpg,Is this person riding with a western saddle?,yes/no,0,1,0,0,0,no,no,no,yes,no,no,no,no,yes,yes
+479687001,COCO_train2014_000000479687.jpg,Are these young men sitting together?,yes/no,0,1,0,0,0,no,yes,yes,yes,no,no,yes,no,yes,yes
+479697013,COCO_train2014_000000479697.jpg,Which country's flag is represented by the cycle?,other,0,1,1,0,0,jamaica,rainbow,gay pride,none,us,brazil,none,jamaica,lgbt flag,america
+47975006,COCO_train2014_000000047975.jpg,Has the dog been in the water?,yes/no,0,1,0,0,0,yes,yes,no,yes,no,yes,yes,no,yes,yes
+480026002,COCO_train2014_000000480026.jpg,What letter is on the red flag?,other,1,1,1,0,0,n,n,a,none,n,none,f,n,unknown,n
+480192003,COCO_train2014_000000480192.jpg,What is the color of the man's hat?,other,0,1,1,0,0,black,"green,yellow",black/yellow,yellow and blue,black and yellow,dark blue,black and yellow,blue,blue/yellow,black
+480196015,COCO_train2014_000000480196.jpg,Has someone been using a lot of bleach on a wearable?,yes/no,0,1,1,0,0,no,no,no,yes,no,no,yes,no,yes,yes
+480415002,COCO_train2014_000000480415.jpg,Is the plain taking off?,yes/no,0,1,1,0,0,no,yes,no,no,yes,no,yes,yes,yes,no
+480443002,COCO_train2014_000000480443.jpg,What time is it?,number,1,1,0,0,0,9:25,9:20,9:20,8:40,9:20,9:25,9:25,9:25,4:45,9:30 AM
+480482001,COCO_train2014_000000480482.jpg,What is train hauling?,other,0,1,0,0,0,nothing,boxcar,nothing,nothing,car,stuff,coal,car,freight,coal
+480661009,COCO_train2014_000000480661.jpg,How often do people stop here?,other,0,1,1,0,0,when light is red,as often as red,whenever light is red,often,never,always,lot,when light is red,when light is red,always
+480683001,COCO_train2014_000000480683.jpg,Are the cupboards or the appliances a darker color?,other,0,1,1,0,0,cupboards,cupboards,cupboards,appliances,no,cupboards,cupboards,cupboards,cupboards,no
+480807007,COCO_train2014_000000480807.jpg,What is on the seat of the motorcycle?,other,0,1,1,0,0,leather,nothing,padding,nothing,leather,nothing,nothing,nothing,cushion,leather
+480807010,COCO_train2014_000000480807.jpg,Is it sunny?,yes/no,0,1,1,0,0,no,yes,yes,yes,yes,no,yes,yes,yes,no
+480812000,COCO_train2014_000000480812.jpg,What is the man holding?,other,0,1,1,0,0,sandwich,sandwich,sandwich,sandwich,sandwich,food,hot dog,sandwich,hot dog,sandwich
+480991004,COCO_train2014_000000480991.jpg,What is the duffle bag on top of?,other,0,1,1,0,0,car,cat,motorcycle,car,cat,car,scooter,motorcycle,motorcycle,motorcycle
+481298001,COCO_train2014_000000481298.jpg,What remotes are on the table?,other,0,1,0,0,0,cable and television,tv,tv,television,tv and dvd,tv and cable,tv and dvd,universal remotes,tv and vcr,tv
+481301000,COCO_train2014_000000481301.jpg,Is that a powerful motor?,yes/no,1,1,0,0,0,yes,no,no,yes,no,no,no,yes,yes,no
+481407003,COCO_train2014_000000481407.jpg,Are all the fruits in a bowl?,yes/no,0,1,1,0,0,no,no,no,yes,no,yes,yes,no,no,no
+481441024,COCO_train2014_000000481441.jpg,Where is the cat laying?,other,0,1,1,0,0,blanket,blanket,blanket,chair,on blanket,yes,blanket,sofa,blanket,couch
+481723004,COCO_train2014_000000481723.jpg,How many zebra are standing on their hind legs?,number,0,1,0,1,0,3,2,1,3,2,3,3,3,3,2
+481725015,COCO_train2014_000000481725.jpg,What size bed is this?,other,0,1,0,0,0,queen,full,double,twin,king,full,queen,double,full,queen
+481802000,COCO_train2014_000000481802.jpg,What brand of hot sauce is pictured here?,other,0,1,1,0,0,none,balancers,none,none,unknown,none,billington,no hot sauce seen,billions,joe's
+481981000,COCO_train2014_000000481981.jpg,How many sheep are eating?,number,0,1,0,1,0,15,3,3,many,several,100,34,hundreds,lot,40
+48204007,COCO_train2014_000000048204.jpg,How many trees are there?,other,0,1,0,1,0,lot,100,5,unknown,20,lots,countless,12,11,many
+482084002,COCO_train2014_000000482084.jpg,Is all the fruit fresh?,yes/no,0,1,1,0,0,yes,no,yes,yes,no,yes,no,no,yes,no
+48229003,COCO_train2014_000000048229.jpg,Is this a the ocean?,yes/no,0,1,1,0,0,yes,yes,yes,yes,yes,yes,no,yes,no,no
+482300001,COCO_train2014_000000482300.jpg,Who is the maker of this truck?,other,1,1,0,0,0,mercedes,mercedes benz,mercedes,mercedes-benz,mercedes-benz,mercedes,mercedes,mercedes-benz,mercedes-benz,mercedes benz
+482393008,COCO_train2014_000000482393.jpg,How many types of tile is shown?,number,0,1,0,1,0,2,2,2,1,1,2,1,2,1,1
+482409001,COCO_train2014_000000482409.jpg,Is this a pier?,yes/no,0,1,0,0,0,yes,yes,no,no,yes,yes,no,yes,yes,no
+482441006,COCO_train2014_000000482441.jpg,Who is looking back at the camera?,other,0,1,0,0,0,skier,woman skier,no one,man,skier,skier,woman,skier,skier,woman
+482493004,COCO_train2014_000000482493.jpg,Is that a large surfboard?,yes/no,0,1,0,0,0,yes,yes,no,no,no,yes,no,no,no,yes
+482696001,COCO_train2014_000000482696.jpg,How many knives are there?,number,0,1,1,1,0,9,8,7,8,9,8,8,8,7,8
+482753011,COCO_train2014_000000482753.jpg,What is the animal in the picture doing?,other,0,1,0,0,0,standing,standing,standing,standing,walking,walking,giraffe,observing,standing,walking
+482889002,COCO_train2014_000000482889.jpg,What is the woman holding by her ear?,other,0,1,0,0,0,cell phone,phone,cell phone,phone,phone,phone,cell phone,phone,cell phone,phone
+483323002,COCO_train2014_000000483323.jpg,How many men are there?,number,1,1,0,1,0,2,1,1,1,2,2,2,2,1,2
+483382001,COCO_train2014_000000483382.jpg,What type of pizza is in the photo?,other,0,1,0,0,0,english muffin,vegetarian,margarita,tomato pizza,tomato,tomato,margherita,cheese,vegetarian,vegetarian
+483489003,COCO_train2014_000000483489.jpg,What is the black statue in the background?,other,0,1,1,0,0,buda,bishop,soldier,prominent person,man,woman,man,person,man,person
+483538001,COCO_train2014_000000483538.jpg,Could Sabin suplex this train?,yes/no,0,1,0,0,0,unsure,yes,yes,no,don't know,yes,yes,no,no,yes
+483630001,COCO_train2014_000000483630.jpg,Does this man have tennis balls in his shorts?,yes/no,0,1,0,0,0,no,yes,no,no,yes,yes,yes,no,yes,no
+483757009,COCO_train2014_000000483757.jpg,What color are the roofs in back?,other,0,1,1,0,0,red,orange,orange,orange,none,red,red,orange,red,orange
+483766000,COCO_train2014_000000483766.jpg,Are these neighbors or school friends?,other,0,1,0,0,0,neighbors,both,neighbors,school friends,neighbors,yes,neighbors,both,yes,school friends
+483855002,COCO_train2014_000000483855.jpg,How many different types of donuts are shown that contain some chocolate?,number,0,1,1,1,0,4,1,1,1,1,7,6,1,1,4
+484044009,COCO_train2014_000000484044.jpg,Are there children staying in this hotel room?,yes/no,0,1,0,0,0,no,no,no,no,yes,yes,yes,no,no,no
+484064000,COCO_train2014_000000484064.jpg,What are people doing in the snow?,other,0,1,0,0,0,snowboarding,snowboarding,snowboarding,skiing,skiing,skiing,snowboarding,skiing,snowboarding,skiing
+484113006,COCO_train2014_000000484113.jpg,What sport is this man playing?,other,0,1,0,0,0,tennis,baseball,shuffleboard,tennis,badminton,tennis,tennis,tennis,tennis,crochet
+484136000,COCO_train2014_000000484136.jpg,What is the color of the frisbee in the top middle?,other,0,1,1,0,0,yellow,red,yellow,red,red,red,red,pink,red,red
+484201005,COCO_train2014_000000484201.jpg,How many windows are open on both computers?,number,0,1,0,1,0,1,0,0,2,0,0,0,0,2,0
+484201015,COCO_train2014_000000484201.jpg,What letter is in the upper right corner of the left computer?,other,1,1,0,0,0,none,f,unknown,p,a,no letter,unknown,s,desktop icon,unclear
+484273002,COCO_train2014_000000484273.jpg,How many people are in the picture?,number,1,1,0,1,0,2,3,3,2,3,2,3,2,3,3
+484281000,COCO_train2014_000000484281.jpg,Where is the door knob?,other,0,1,1,0,0,on door,on door,off camera,door,cabinet,on door,on cabinets,on cupboard,black,cabinet
+484281013,COCO_train2014_000000484281.jpg,Is someone impressed by this edible object?,yes/no,0,1,0,0,0,yes,no,yes,no,yes,yes,yes,unknown,no,no
+484300002,COCO_train2014_000000484300.jpg,Is the ocean clear?,yes/no,0,1,1,0,0,no,no,yes,yes,no,yes,no,no,yes,no
+484353002,COCO_train2014_000000484353.jpg,What is the red and white vegetable?,other,0,1,1,0,0,radish,radishes,radish,onion,radish,radish,radish,potatoes,tomato & cucumber,radish
+484418001,COCO_train2014_000000484418.jpg,Where is smoke coming from?,other,0,1,0,0,0,plane,plane,under plane,plane,plane,small plane,airplane,airplane,plane,plane
+48442002,COCO_train2014_000000048442.jpg,What sport is being played?,other,0,1,0,0,0,squash,rugby,hockey,field hockey,lacrosse,lacrosse,hockey,field hockey,stick tennis,hockey
+484562003,COCO_train2014_000000484562.jpg,How many people are on the bus?,number,0,1,0,1,0,4,7,6,4,4,20,6,15,6,5
+484562009,COCO_train2014_000000484562.jpg,How many people are in the photo?,number,0,1,0,1,0,2,5,few,5,8,8,5,2,7,6
+484619000,COCO_train2014_000000484619.jpg,Could this be a birthday party?,yes/no,0,1,0,0,0,no,yes,yes,no,yes,yes,no,no,no,no
+484650015,COCO_train2014_000000484650.jpg,What color are the columns on the building?,other,0,1,1,0,0,blue,tan,tan,stone,beige,tan,tan,tan,tan,tan
+484714075,COCO_train2014_000000484714.jpg,Are these waves safe for the surfer?,yes/no,0,1,0,0,0,no,yes,yes,no,yes,no,yes,yes,yes,no
+485064002,COCO_train2014_000000485064.jpg,How big is this truck?,other,0,1,0,0,0,medium,not big,10 feet,20 ft,medium,medium size,15 feet long,7 ft,i don't know,mid-size
+485106002,COCO_train2014_000000485106.jpg,What are most of the horses doing?,other,0,1,0,0,0,eating,standing,eating,eating,standing,eating,grazing,eating,eating,eating
+485185001,COCO_train2014_000000485185.jpg,How valuable is sheep's milk?,other,0,1,0,0,0,very,not very,very,very,very,unsure,valuable,very,very,very
+485369003,COCO_train2014_000000485369.jpg,What type of bird is perched on the branch?,other,0,1,1,0,0,don't know,tropical,black,black,blackbird,macaw,toucan,quail,black bird,red beaked flea-flicker
+485426002,COCO_train2014_000000485426.jpg,Are there any stuffed animal dogs?,yes/no,0,1,0,0,0,yes,no,no,yes,no,no,no,no,no,yes
+485954003,COCO_train2014_000000485954.jpg,Are they feeding cake to the horses?,yes/no,0,1,0,0,0,yes,yes,yes,no,yes,no,yes,no,yes,yes
+486013001,COCO_train2014_000000486013.jpg,Who is inside the plane?,other,0,1,0,0,0,no one,pilot,pilot,no one,nobody,pilot,passenger,pilot,pilot,pilot
+486513001,COCO_train2014_000000486513.jpg,How many vehicles are in the photo?,number,0,1,0,1,0,0,4,1,6,7,2,0,1,0,0
+486545006,COCO_train2014_000000486545.jpg,What does the man in red have over his face?,other,0,1,1,0,0,sheet,hand,mask,mask,mask,makeup,nothing,cloth mask,nothing,sunglass
+486545018,COCO_train2014_000000486545.jpg,Are all of these people in traditional indigenous dress?,yes/no,0,1,0,0,0,no,no,no,yes,yes,no,no,no,no,yes
+486641001,COCO_train2014_000000486641.jpg,"Looking closely, how many animal faces are seen in the image?",number,0,1,0,1,0,2,3 animal faces,3,3,2,2,2,2,2,2
+487182002,COCO_train2014_000000487182.jpg,Whose name is featured for this egg dish?,other,1,1,0,0,0,benedict,not clear,juilliard,benedict,benedict,benedict,mine,don't know,benedict,benedict
+487260005,COCO_train2014_000000487260.jpg,Is the truck pulling something?,yes/no,0,1,1,0,0,no,yes,yes,bus,yes,yes bus,no,yes,bus,yes
+487269022,COCO_train2014_000000487269.jpg,Is the man doing a trick?,yes/no,0,1,0,0,0,no,no,yes,no,no,yes,no,no,yes,yes
+487269043,COCO_train2014_000000487269.jpg,What sport is this person participating in?,other,0,1,0,0,0,flying kites,flying kite,kit flying,kite flying,kite flying,flying kite,flying kite,kite flying,frisbee,kite flying
+487359002,COCO_train2014_000000487359.jpg,What is this building style called?,other,0,1,0,0,0,colonial,apartment,row house,row home,row house,terrace,old,side by side,townhouse,gothic
+487458003,COCO_train2014_000000487458.jpg,Is he running to hit the ball?,yes/no,0,1,0,0,0,yes,no,yes,yes,no,yes,yes,no,yes,yes
+487555000,COCO_train2014_000000487555.jpg,What kind of vehicle is this?,other,0,1,0,0,0,airplane,airplane,airplane,airplane,plane,airplane,plane,airplane,airplane and trucks,truck
+487854001,COCO_train2014_000000487854.jpg,What animal is in this picture?,other,0,1,0,0,0,zebra,"zebra, horse, cow",zebra,zebra,zebra,zebra,"zebra, ox",buffalo and zebra,zebra and cow,zebra
+487938002,COCO_train2014_000000487938.jpg,How many flowers are orange?,number,0,1,1,1,0,yes,2,2,2,2,2,2,3,6,2
+487994000,COCO_train2014_000000487994.jpg,How many men are in this picture?,number,0,1,1,1,0,1,1,1,3,1,0,1,0,1,1
+488260002,COCO_train2014_000000488260.jpg,How many different colors are on the round item in front of the giraffes?,number,0,1,1,1,0,2,5,4,3,3,4,3,3,4,3
+488390012,COCO_train2014_000000488390.jpg,What brand of laptop is sitting on the desk?,other,1,1,0,0,0,compaq,hp,compaq,compaq,compaq,dell,hp,compaq,dell,apple
+488422006,COCO_train2014_000000488422.jpg,Is there a light?,yes/no,0,1,1,0,0,yes,yes,yes,yes,no,no,yes,yes,no,yes
+488432002,COCO_train2014_000000488432.jpg,What year was this taken?,number,0,1,0,0,1,1901,70's,1840,1902,1875,can't tell,1900,1900,early 1900's,1900
+488510000,COCO_train2014_000000488510.jpg,How many furrows between the skier's feet?,number,0,1,0,1,0,20,6,7,1,1,1,8,3,12,4
+488845022,COCO_train2014_000000488845.jpg,Does the food look healthy?,yes/no,0,1,0,0,0,no,yes,yes,yes,no,no,no,yes,no,no
+489369000,COCO_train2014_000000489369.jpg,What animal is intermingling with the elephant?,other,0,1,1,0,0,gazelle,gazelle,antelope,antelope,deer,eland,gazelle,deer,gazelles,antelopes
+489520001,COCO_train2014_000000489520.jpg,Are skiers on the lift?,yes/no,0,1,1,0,0,no,yes,no,no,no,yes,no,no,no,yes
+489785000,COCO_train2014_000000489785.jpg,Are the people watching TV?,yes/no,0,1,0,0,0,yes,no,no,yes,yes,no,no,yes,no,no
+489802007,COCO_train2014_000000489802.jpg,What is the woman holding in her left hand?,other,1,1,0,0,0,cell phone,wine,wine glass,glass of water,wine glass,wine glass,wine,glass of wine,wine glass,wine
+490097000,COCO_train2014_000000490097.jpg,What animal is shown?,other,0,1,0,0,0,0,owl,0,0,cat,no animal,0,0,no animal,no animal
+490400010,COCO_train2014_000000490400.jpg,Is there fruit on the table on the left?,yes/no,0,1,1,0,0,yes,no,yes,no,no,no,no,yes,no,yes
+490610000,COCO_train2014_000000490610.jpg,Why does the child have a big hat on?,other,0,1,0,0,0,sun protection,sunny,sunny,to protect from sun,hat,sunny,sun protection,sun protection,block sun,protection from sun
+490870000,COCO_train2014_000000490870.jpg,What color shirt is the guy to the left wearing?,other,0,1,1,0,0,red,orange,red,red,red,orange,orange,orange,orange,orange
+491177007,COCO_train2014_000000491177.jpg,Is this person facing the sun?,yes/no,0,1,1,0,0,no,yes,yes,no,yes,yes,no,no,yes,yes
+491302004,COCO_train2014_000000491302.jpg,What color shoes is the gentlemen wearing in the far left?,other,0,1,1,0,0,beige,white,white,white,white,black,gray,white,white,white
+491384002,COCO_train2014_000000491384.jpg,Do you think you could eat all these fruits?,yes/no,0,1,0,1,0,no,no,yes,no,no,yes,yes,no,no,no
+491397015,COCO_train2014_000000491397.jpg,What is the name of this park?,other,1,1,1,0,0,city park,no park,none,city park,don't know,unknown,state,unknown,lincoln park,yayway
+491857002,COCO_train2014_000000491857.jpg,What are the purpose of the umbrella's?,other,0,1,0,0,0,create shade,shade,block sun,to keep dry,shade,shade,to shade sun,shade,shade,heat
+491932001,COCO_train2014_000000491932.jpg,What is the name of the website on the suitcase?,other,1,1,0,0,0,freakyfrugalitecom,freaky frugalite,freakyfrugalitecom,freaky frugalite,freakyfrugalitecom,freakyfrugalitecom,freakyfrugalitecom,freaky frugalite,freakyfrugalitecom,freakyfrugalitecom
+492030007,COCO_train2014_000000492030.jpg,What is the person doing in the water?,other,0,1,0,0,0,walking,standing,walking,wading,wading,walking,standing,standing,standing,standing
+492114006,COCO_train2014_000000492114.jpg,Why is the man on the right leaning over like that?,other,0,1,1,0,0,woman on right,batting,no man on right,catcher,to hit ball,batting stance,to pitch,to hit,batting,to pose
+492541003,COCO_train2014_000000492541.jpg,Are there stripes on the planes tail?,yes/no,0,1,0,0,0,yes,no,no,no,no,no,yes,yes,no,yes
+492698005,COCO_train2014_000000492698.jpg,What is behind the dog?,other,0,1,0,0,0,ocean,ocean,sunset,water,beach,water,sea,ocean,ocean,ocean
+493202010,COCO_train2014_000000493202.jpg,What room is this person in?,other,0,1,0,0,0,dining,there is no person,dining,dining room,dining room,banquet room,restaurant,dining room,dining room,dining room
+493888001,COCO_train2014_000000493888.jpg,Are the boys shoes in disrepair?,yes/no,0,1,0,0,0,yes,yes,no,yes,yes,yes,yes,no,yes,no
+493994001,COCO_train2014_000000493994.jpg,What is in the container?,other,0,1,0,0,0,berries,blackberry,blackberries,smoked almonds,blackberries,blackberries,fruit,peanuts,berries,blackberries
+494281000,COCO_train2014_000000494281.jpg,Is this a Chalice?,yes/no,0,1,0,0,0,no,yes,no,yes,yes,yes,yes,no,yes,no
+494282002,COCO_train2014_000000494282.jpg,Is there more than one speaker?,yes/no,0,1,0,1,0,yes,yes,no,no,yes,no,yes,yes,yes,yes
+494445003,COCO_train2014_000000494445.jpg,Does the zebra have stripes on his nose?,yes/no,0,1,1,0,0,no,no,no,no,yes,yes,yes,no,yes,yes
+494504002,COCO_train2014_000000494504.jpg,What is the color of the carpet?,other,0,1,1,0,0,white,white,beige,beige,white,beige,white,beige,gray,tan
+494780002,COCO_train2014_000000494780.jpg,What is this building made of?,other,0,1,0,0,0,bricks,brick,stone,stone,brick,stone,stone,stone,stone,brick

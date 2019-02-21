@@ -1,0 +1,514 @@
+qid;question;obj;txt;col;cnt;oth
+435554006;Which direction is the tennis player's hat facing?;['direction', "tennis player's hat"];1;0;0;0;0
+435686028;What is the weather?;['weather'];1;0;1;0;0
+435829002;How many red train cars are in this image?;['red train cars', 'image'];1;0;1;1;0
+436287002;How many windows are visible?;['windows'];1;0;0;1;0
+436515001;Is this person drunk?;['person drunk'];1;0;1;0;0
+436981000;What are the letters on the bus?;['letters', 'bus'];1;1;0;0;0
+437102001;How many books are red?;['books'];1;0;1;1;0
+437139012;How many people can be seen?;['people'];1;0;0;1;0
+437300000;What type of sink is this?;['type of sink'];1;0;0;0;0
+43774003;How many plates in this stack?;['plates', 'stack'];1;0;0;1;0
+43774009;What is written on the plate?;['plate'];1;1;0;0;0
+437900001;How many sheep are there?;['sheep'];1;0;0;1;0
+437949004;How many motorcycle do you see?;['motorcycle'];1;0;0;1;0
+438053007;What kind of board is the man riding?;['kind of board', 'man riding'];1;0;0;0;0
+438053018;Was this picture taken recently?;['picture'];1;0;1;0;0
+438479004;How many giraffes are in the picture?;['giraffes', 'picture'];1;0;0;1;0
+438594001;Are all the vegetables green?;['vegetables green'];1;0;1;0;0
+438671021;What sits on the left hand side of the bowl?;['left hand', 'bowl'];1;0;0;0;0
+438701005;Who will finish eating first?;[];1;0;0;0;0
+43876000;What animal is hanging from the keychain?;['animal', 'keychain'];1;0;1;0;0
+438932001;Where is the plant?;['plant'];1;0;0;0;0
+439003005;What color is the pan?;['color', 'pan'];1;0;1;0;0
+439107002;What is the sky?;['sky'];1;0;1;0;0
+439251001;What is the animal wearing on its head?;['animal', 'head'];1;0;0;0;0
+439506005;Does the girl dye her hair?;['girl', 'hair'];1;0;1;0;0
+439506009;What color is the boy's vest?;['color', "boy's vest"];1;0;1;0;0
+439550002;Is he depressed?;[];1;0;1;0;0
+439576006;Is the woman going to eat it all?;['woman'];1;0;0;1;0
+439615003;What is the color of the clouds?;['color', 'clouds'];1;0;1;0;0
+439758008;How many tops of bottles can you see?;['tops of bottles'];1;0;1;0;0
+439926000;What team is the player in white on?;['team', 'player', 'white'];1;0;1;0;0
+439930008;What time does the clock show?;['time', 'clock'];1;1;0;1;0
+439939000;Does the skis match the skiers jackets?;['skis', 'skiers jackets'];1;0;1;0;0
+439995002;Is the microwave on?;['microwave'];1;1;0;0;0
+440107001;Is this boat moving down the river?;['boat', 'river'];1;0;0;0;0
+440147000;How many people would be on this boat?;['people', 'boat'];1;0;0;1;0
+44017000;How many yellow helmets is there?;['yellow helmets'];1;0;1;1;0
+440285040;What kind of cake is that?;['kind of cake'];1;0;1;0;0
+440340002;Why is the girl holding an umbrella?;['girl', 'umbrella'];1;0;0;0;1
+440689004;What kind of bike is it?;['kind of bike'];1;0;1;0;0
+440689009;What is on the front of the bike?;['bike'];1;0;0;0;0
+440874010;Are the older or younger animals darker?;['younger animals darker'];1;0;1;0;0
+441034004;IS the train moving?;['train'];1;0;0;0;0
+441105001;Do the skis seem short?;['skis'];1;0;0;0;0
+441361005;Who is on the bench?;['bench'];1;0;0;1;0
+441387003;Is there a light on the train?;['light', 'train'];1;0;0;0;0
+441412002;What is the lady holding in her hand?;['lady', 'hand'];1;0;0;0;0
+441425002;Are the Macbooks?;['Macbooks'];1;1;0;0;0
+441493007;Are there any blinds on the windows?;['blinds', 'windows'];1;0;1;1;0
+441544002;Is the man reading?;['man'];1;0;0;0;0
+441608001;Does the grass need to be cut?;['grass'];1;0;1;0;0
+442132000;What number is on the front of the train?;['number', 'train'];1;1;0;1;0
+442178000;Are these animals free to roam?;['animals free'];1;0;0;0;0
+442332003;What do the signs say?;['signs'];1;0;0;0;0
+442450004;Has the gray tree, upper left, lost limbs?;['upper left', 'gray tree', 'lost limbs'];1;0;1;0;0
+442654000;What is the color of the building?;['color', 'building'];1;0;1;0;0
+442670003;What animals are these?;['animals'];1;0;1;1;0
+442886003;Is there anything hiding in the tasty drink?;['tasty drink'];1;0;0;0;0
+44291001;How many umbrellas in the photo?;['umbrellas', 'photo'];1;0;0;1;0
+442911004;What time does it say on the clock?;['time', 'clock'];1;1;0;0;0
+442961001;What is the person holding?;['person'];1;0;0;0;0
+442980002;Are these zebras living in the wild?;['zebras'];1;0;0;0;0
+443086003;Can you tell what time of day it is by the shadow?;['time of day', 'shadow'];1;0;1;0;0
+44337000;Is the stove new?;['stove new'];1;0;1;0;0
+443373000;How many cups are in the picture?;['cups', 'picture'];1;0;0;1;0
+443497001;Why is the skier pointed this way on the mountain?;['skier', 'way', 'mountain'];1;0;1;0;0
+443522001;What color is the toast?;['color', 'toast'];1;0;1;0;0
+44358000;What is the man doing?;['man'];1;0;1;0;0
+443607017;What is the man sitting on?;['man'];1;0;0;0;0
+443823005;Does it appear to be sunrise or sunset?;['sunrise', 'sunset'];1;0;1;0;0
+443909016;How many police are there?;['police'];1;0;1;1;0
+443909026;What animal is on the flatbed?;['animal', 'flatbed'];1;0;0;0;0
+444173000;What type of filter is used in this picture?;['type of filter', 'picture'];1;0;1;0;0
+444210001;Could passenger be boarding?;['passenger'];1;0;1;0;0
+444226005;Does the little horse want his freedom?;['little horse', 'freedom'];1;0;0;0;0
+444235003;Are there passengers on the bus?;['passengers', 'bus'];1;0;0;0;0
+444337000;Can these items move?;['items'];1;0;0;0;0
+444404003;What is in the sky?;['sky'];1;0;1;0;0
+444409021;What beverage is on the table?;['beverage', 'table'];1;1;0;0;0
+444409037;What is the food and drinks sitting next to?;['food', 'drinks'];1;0;1;0;0
+444409042;What is in the wine glass?;['wine glass'];1;0;0;0;0
+444487003;Do you see clouds in the sky?;['clouds', 'sky'];1;0;0;0;0
+44454006;Is the window open?;['window open'];1;0;0;0;0
+444794002;What color is the woman's shirt?;['color', "woman's shirt"];1;0;1;0;0
+444794003;What is the woman doing to the bowl?;['woman', 'bowl'];1;0;0;0;0
+444872005;Is the bird going after a fish?;['bird', 'fish'];1;0;0;0;0
+444880003;Why style of architecture is in the photo?;['style of architecture', 'photo'];1;0;1;0;0
+444983001;Is this train traveling under a cloud?;['train', 'cloud'];1;0;0;0;0
+445099001;About how old is this toddler?;['toddler'];1;0;0;1;0
+445338001;How many bowls are on the counter?;['bowls', 'counter'];1;0;0;1;0
+445388004;Are the buses made by the same company?;['buses', 'company'];1;1;0;0;0
+445443002;Who is flying the princess kite?;['princess kite'];1;0;1;0;0
+445515000;Are there any bricks with more than four sides?;['bricks', 'sides'];1;0;0;1;0
+445515002;How much longer until midnight?;['midnight'];1;1;0;1;0
+445592011;How many pillows in the picture?;['pillows', 'picture'];1;0;0;1;0
+445745002;Was the apple sliced or chopped?;['apple'];1;0;0;0;0
+446069000;How many elephants are in this picture?;['elephants', 'picture'];1;0;0;1;0
+446131002;What is the name of the tower?;['tower'];1;1;1;0;0
+446234002;How is the man's hair styled?;["man's hair"];1;0;0;0;0
+446271001;Are all of the people seated?;['people'];1;0;0;0;0
+446471001;How many bears are there?;['bears'];1;0;0;1;0
+446628000;What are the dark stripes on the ground?;['dark stripes', 'ground'];1;0;0;0;0
+446694020;What is in the cone?;['cone'];1;0;0;0;0
+447037002;How many people are wearing glasses?;['people', 'glasses'];1;0;0;1;0
+447108003;Why is the horse black?;['horse black'];1;0;1;0;0
+447112001;Is the child bald?;['child bald'];1;0;0;0;0
+447112003;What color are the babies eyes?;['color', 'babies eyes'];1;0;1;0;0
+447112024;What is hugging the bear?;['bear'];1;0;1;0;0
+447228001;Is the boat moving?;['boat'];1;0;0;0;0
+447243002;How many people are in the photo?;['people', 'photo'];1;0;0;1;0
+447689001;Does the man have sun in his eyes?;['man', 'eyes'];1;0;0;0;0
+44782005;What does the bottom sign say on the sign post?;['sign post'];1;1;1;0;0
+447840008;What color are the walls?;['color', 'walls'];1;0;1;0;0
+447865000;Do you see safety scissors?;['safety scissors'];1;0;0;0;0
+448077000;What is in the bottle?;['bottle'];1;0;1;0;0
+44818007;Is this a new Mac?;['new Mac'];1;0;0;0;0
+448402002;Which fruits are in the salad?;['fruits', 'salad'];1;0;0;0;0
+448439001;What city is on the man's hat?;['city', "man's hat"];1;1;0;0;0
+448560015;How is the ground like?;['ground'];1;0;1;0;0
+448648011;How many cars are there?;['cars'];1;0;0;1;0
+448702001;What does the sign say?;['sign'];1;1;1;0;0
+448826002;What is the man in yellow doing with his left hand?;['yellow doing', 'left hand', 'man'];1;0;1;0;0
+448887000;How many trains cars are on the train?;['trains cars'];1;0;0;1;0
+4490000;Is the man wearing shades?;['man', 'shades'];1;0;1;0;0
+449082016;Is this sign high up in the air?;['sign', 'air'];1;1;0;0;0
+449158002;Are there children in the park?;['children', 'park'];1;0;0;0;0
+449195004;Does the bear look angry?;['bear'];1;0;0;0;0
+449529001;What is the color of the buildings wall?;['color', 'buildings wall'];1;0;1;0;0
+450050000;What number is on the bus?;['number', 'bus'];1;1;0;1;0
+450052000;What time is on the clock?;['time', 'clock'];1;1;0;0;0
+450066002;What time is on the clock?;['time', 'clock'];1;0;0;1;0
+450111007;How long until this pizza is done?;['pizza'];1;1;0;0;0
+450117003;Is this an adult Elephant?;['adult Elephant'];1;0;0;0;0
+450219007;Why wear head protection?;['wear head protection'];1;0;1;0;0
+450309002;What is the giraffe doing?;['giraffe'];1;0;1;0;0
+450434002;What brand of doughnut shop is this?;['brand of doughnut shop'];1;1;1;0;0
+450526002;Can many people get into this vehicle?;['people', 'vehicle'];1;0;1;0;0
+450528002;What time of day is this event taking place?;['event', 'time of day', 'place'];1;0;1;0;0
+450700006;Are all the people teenagers?;['people teenagers'];1;0;0;0;0
+450833003;What is one player wearing knee pads?;['player', 'knee pads'];1;0;0;1;0
+450940001;Is the woman safe?;['woman safe'];1;0;1;0;0
+451016007;What is this man's profession?;["man's profession"];1;0;0;0;0
+451490002;Are these dairy cows?;['dairy cows'];1;0;1;0;0
+451720001;What is on the bed?;['bed'];1;0;0;0;0
+451826001;How many different colors are on the musical instrument?;['different colors', 'musical instrument'];1;0;1;0;0
+452087001;What does the trash on the right include?;['trash', 'right'];1;0;0;0;0
+452167004;Is this person racing?;['person racing'];1;0;0;0;0
+452302004;What animal is the boy riding?;['animal', 'boy riding'];1;0;1;0;0
+452302005;Where is the boy wearing a red cap?;['boy', 'red cap'];1;0;0;0;0
+452465002;Where are the boats?;['boats'];1;0;1;0;0
+452706022;Does the airplane look level?;['airplane', 'level'];1;0;1;0;0
+452831009;What number is the train?;['number', 'train'];1;1;0;1;0
+452912004;How many men are there?;['men'];1;0;0;1;0
+45306007;What is the elephant holding in its trunk?;['elephant', 'trunk'];1;0;0;0;0
+453299000;Is the girl wearing shoes?;['girl', 'shoes'];1;0;0;1;0
+453357001;Is this handicap friendly?;['handicap friendly'];1;0;0;0;0
+453397003;Can you describe the artwork on the wall?;['artwork', 'wall'];1;0;0;0;0
+453552001;What kind of celebration is this?;['kind of celebration'];1;0;1;0;0
+453567006;What is the color of the water?;['color', 'water'];1;0;1;0;0
+453586010;Is the water cold?;['water cold'];1;0;0;0;0
+453629007;Is that a larger than normal serving?;['normal serving'];1;0;0;1;0
+453646003;Are these zebra standing on a sidewalk?;['zebra', 'sidewalk'];1;0;0;0;0
+453734000;Whose flag is that man wearing?;['flag', 'man'];1;0;1;0;0
+454000004;How many people are on the platform?;['people', 'platform'];1;0;0;1;0
+454078003;What type of vehicle is this?;['type of vehicle'];1;0;0;0;0
+454174003;What is the name of the equipment on this truck?;['equipment', 'truck'];1;1;0;0;0
+454219003;How many people are in the photo?;['people', 'photo'];1;0;0;1;0
+454255005;How many open umbrellas?;['open umbrellas'];1;0;0;1;0
+454477000;How many of these possible could be drinking the wine?;['wine'];1;0;0;1;0
+4546010;What is the climate like in this area?;['climate like', 'area'];1;0;0;0;0
+454636002;Do we look like we are from the same family?;['family'];1;0;0;0;0
+454680000;How many orange signs are on the street?;['orange signs', 'street'];1;0;1;1;0
+454712017;Would Dr Seuss like that hat?;['Dr Seuss', 'hat'];1;0;1;0;0
+454827000;What does the sign mean?;['sign mean'];1;1;0;0;0
+454857009;How many people are there?;['people'];1;0;0;1;0
+45494002;What's the number on the truck?;['number', 'truck'];1;1;0;0;0
+455252004;What does this kite look like?;['kite'];1;0;1;0;0
+455342000;Was this photographed with a wide-angle lens?;['wide-angle lens'];1;0;0;0;1
+45537003;Is anyone able to sit in this chair?;['chair'];1;0;0;0;0
+455459000;What are the benches facing?;['benches'];1;0;0;0;0
+455473001;Is it safe for the child to be standing there?;['child'];1;0;0;0;0
+455496005;What animal is on this person's hat?;['animal', "person's hat"];1;0;0;0;0
+455632010;What is this room probably used for?;['room'];1;0;0;0;0
+455658003;Is this a new photo?;['new photo'];1;0;0;0;0
+455658009;How many horses are there?;['horses'];1;0;0;1;0
+455696015;Is there anyone inside the plane?;['plane'];1;0;0;0;0
+455696041;Is this man flying a jet?;['man', 'jet'];1;0;0;0;0
+455865005;Can you see onions?;['onions'];1;0;1;0;0
+455865009;Is there enough for 4?;[];1;0;1;0;0
+455875000;How many umbrellas are there?;['umbrellas'];1;0;0;1;0
+455934004;Is this a semi truck?;['semi truck'];1;0;0;0;0
+456042013;How many people in this photo?;['people', 'photo'];1;0;0;1;0
+456217001;How many shades of pink are visible in the woman's dress?;['shades of pink', "woman's dress"];1;0;1;1;0
+456351013;Where the stop sign is fitted?;['stop sign'];1;1;0;0;0
+456545000;Is this picture in the United States?;['picture', 'United States'];1;0;0;0;0
+456629004;Is this a cargo plane?;['cargo plane'];1;0;0;0;0
+456819011;Is the glass half full?;['glass half'];1;0;1;0;0
+456936000;What is the woman holding?;['woman'];1;0;0;0;0
+457233002;What are the brown, black and white animals known as?;['brown', 'white animals'];1;0;1;0;0
+457401005;Is this a kitchen cabinet?;['kitchen cabinet'];1;0;0;0;0
+457514001;Is the person riding on pavement?;['person riding', 'pavement'];1;0;0;0;0
+457586021;Is this a well styled bathroom?;['styled bathroom'];1;0;0;0;0
+457824001;What color are the trees?;['color', 'trees'];1;1;1;0;0
+45792001;What style of image is this?;['style of image'];1;0;1;0;0
+457962000;Is the man feeding the child?;['man', 'child'];1;0;0;0;0
+457976001;What color are the cows?;['color', 'cows'];1;0;1;0;0
+458016000;What are the numbers on the train?;['numbers', 'train'];1;1;0;0;0
+458089003;What type of shoes is the man wearing?;['type of shoes', 'man'];1;0;0;0;0
+458132000;Why is this bear in a tree?;['bear', 'tree'];1;0;0;0;0
+458184004;What is the orange food called?;['orange food'];1;0;1;0;0
+458232007;What shape is painted on the floor?;['shape', 'floor'];1;0;1;0;0
+45829002;Who is next to Mario?;['Mario'];1;0;0;0;0
+458336000;Are the waves small?;['waves small'];1;0;1;0;0
+458355004;What is the man doing?;['man'];1;0;1;0;0
+458355010;What color hat is the man in the white t-shirt wearing?;['man', 'color hat', 'white t-shirt'];1;0;1;0;0
+45836002;What animal is on the blanket?;['animal', 'blanket'];1;0;0;0;0
+458568000;What time is it?;['time'];1;0;0;1;0
+458586000;Do the bears look mean?;['bears', 'mean'];1;0;0;0;0
+458633001;Is this an ox?;['ox'];1;0;0;0;0
+458785001;What time does the clock read?;['time', 'clock'];1;0;1;0;1
+458856014;Was the building on the right built before 1900?;['building', 'right'];1;0;0;0;1
+459147004;Are the windows open?;['windows open'];1;0;0;0;0
+459248003;How many sets of tracks?;['sets of tracks'];1;0;0;1;0
+459401001;What number of spots on the giraffe are orange?;['giraffe', 'number of spots', 'orange'];1;0;1;1;0
+459712002;What animal is on the leash?;['animal', 'leash'];1;0;0;0;0
+459765001;What is green in the picture?;['picture'];1;0;1;0;0
+460055008;Is it winter time?;['time'];1;0;0;0;0
+460202002;Which animal is on top of which animal?;['animal'];1;0;0;0;0
+460408002;Is the food pyramid properly represented here?;['food pyramid'];1;1;0;0;0
+460415001;Is it raining?;[];1;0;1;0;0
+460459004;Is the man falling?;['man'];1;0;0;0;0
+460643006;How many packages are wrapped in brown paper?;['packages', 'brown paper'];1;0;1;1;0
+460665001;Can you count the windows visible in the background?;['windows visible', 'background'];1;0;0;1;0
+460694000;Was a beverage served?;['beverage'];1;0;0;0;0
+460830003;How many topping slices do you see?;['topping slices'];1;1;0;1;0
+461114062;What number is on this cake?;['number', 'cake'];1;1;0;0;0
+461114098;Is the boy sad?;['boy sad'];1;0;0;0;0
+461208019;How men are in the photo?;['men', 'photo'];1;0;0;1;0
+461211005;How many people are seated in this picture?;['people', 'picture'];1;0;0;1;0
+461211007;Are there more men than women in this photo?;['women', 'photo'];1;0;0;1;0
+461252002;Has the meal begun?;['meal'];1;0;0;0;0
+461498002;What kind of bird is this?;['kind of bird'];1;0;0;0;0
+461535026;What is the man about to walk past?;['man'];1;0;1;0;0
+461744006;Do these animals appear related?;['animals'];1;0;0;0;0
+462040001;What are the people doing?;['people'];1;0;0;0;0
+462114002;Is the person going up or coming down?;['person'];1;0;1;0;0
+462131002;How many stalls are there?;['stalls'];1;0;0;1;0
+462164000;How many teddy bears in the picture?;['teddy bears', 'picture'];1;0;0;1;0
+462186001;Is this person attempting a stunt or are they falling?;['person', 'stunt'];1;0;0;0;0
+462186007;What is the person wearing on their feet?;['person', 'feet'];1;0;0;0;0
+462401000;Could the day be a bit cool?;['day'];1;0;1;0;0
+46242011;How many trees are there?;['trees'];1;0;1;1;0
+462599002;What are the ribbons for?;['ribbons'];1;0;0;0;0
+462811002;What type of cake is this?;['type of cake'];1;0;1;0;0
+462847002;Who is doing the dishes?;['dishes'];1;0;0;0;0
+462872000;Are the train windows open?;['train windows open'];1;0;0;0;0
+462974001;How many flowers are in this picture?;['flowers', 'picture'];1;0;0;1;0
+463019001;What is the bench made of?;['bench'];1;0;1;0;0
+463108002;Is this a train station?;['train station'];1;0;1;0;0
+46322001;Is there a woman in the photo?;['woman', 'photo'];1;1;1;0;0
+463482005;Is he in the water?;['water'];1;0;0;0;0
+463482006;How many people are standing on surfboards?;['people', 'surfboards'];1;0;0;1;0
+463581005;What number is shown on the tail and on the side?;['number', 'tail'];1;1;0;1;0
+463589000;Is this ready to eat?;[];1;0;1;0;0
+463616004;Why is the sink almost over the tub?;['sink', 'tub'];1;0;0;0;0
+463665003;What kind of bird are these?;['kind of bird'];1;0;1;0;0
+463823009;Could that sign be considered a historical landmark?;['sign', 'historical landmark'];1;1;0;0;0
+464744003;What time is it in the photo?;['time', 'photo'];1;1;0;0;0
+464854000;How many people are seated?;['people'];1;0;0;1;0
+464937003;Are the fruits white?;['fruits white'];1;0;1;0;0
+465060000;What time does the clock show?;['time', 'clock'];1;1;0;1;0
+465169004;Where is the man wearing sunglasses?;['man', 'sunglasses'];1;0;0;0;0
+465198002;What is the color of the player short pants?;['color', 'player short pants'];1;0;1;0;0
+465213001;How many lamps are on the counter ??;['lamps', 'counter'];1;0;0;1;0
+46524013;Is the woman wearing jewelry?;['woman', 'jewelry'];1;0;0;0;0
+465266001;Is this how the stop sign was originally intended to look?;['stop sign'];1;0;1;0;0
+465351005;What sport is the boy playing?;['sport', 'boy'];1;0;0;0;0
+465467000;Why isn't the grass green in this picture?;['grass green', 'picture'];1;0;1;0;0
+465468014;What number is on the black shirt?;['number', 'black shirt'];1;1;0;1;0
+465529000;Is this person smoking?;['person smoking'];1;0;1;0;0
+465677000;What are the people viewing in the picture?;['people', 'picture'];1;0;0;0;0
+466070011;Are there high mountains in this photo?;['high mountains', 'photo'];1;0;0;0;0
+466352001;Are they fully grown?;[];1;0;0;0;0
+466395000;Do you think he will land this trick?;['trick'];1;0;1;0;0
+466406008;What brand is this equipment?;['brand', 'equipment'];1;1;0;0;0
+466580004;Is there a shadow in the scene?;['shadow', 'scene'];1;0;1;0;0
+466694005;How many people are wearing plaid shirts?;['people', 'plaid shirts'];1;0;1;1;0
+466713016;What is the color of the sky?;['color', 'sky'];1;0;1;0;0
+466714002;Is this an energy-efficient appliance?;['energy-efficient appliance'];1;0;0;0;0
+466730010;How many people have bikes?;['people', 'bikes'];1;0;0;1;0
+466730012;What brand of bike do these men have?;['brand of bike', 'men'];1;1;0;0;0
+466730020;Are all of the tires facing the same way?;['tires', 'way'];1;0;1;0;0
+466845001;Are the animals or people caged in?;['animals', 'people'];1;0;0;0;0
+467050006;How many bricks is this wall made out of?;['bricks', 'wall'];1;0;0;1;0
+467256000;What does the sign say?;['sign'];0;1;0;0;0
+467431003;Where is the man at?;['man'];1;0;0;0;0
+467431006;Which wood is used for floors?;['wood', 'floors'];1;0;1;0;0
+467645001;Is the banana in the scene going bad?;['banana', 'scene'];1;0;1;0;0
+467763004;What continent is the picture taken in?;['continent', 'picture'];1;1;0;0;0
+467799005;What is the person with the number 10 on his back doing?;['person', 'number'];1;0;1;0;0
+467939002;How many sandwich pieces are there?;['sandwich pieces'];1;0;0;1;0
+468100002;What is the idea of a sign that says that?;['idea', 'sign'];1;1;0;0;0
+468529000;What color are the lamps?;['color', 'lamps'];1;0;1;0;0
+468538001;How much toothpaste is on this toothbrush?;['toothpaste', 'toothbrush'];1;1;0;1;0
+468619001;What are the flowers sitting in?;['flowers'];1;0;0;0;0
+468648001;Is this person a professional surf boarder?;['person', 'professional surf boarder'];1;0;1;0;0
+468818000;Is the man on the right holding the frisbee or actively passing it to the man on the left?;['man', 'right', 'frisbee', 'left'];1;0;0;0;0
+468932007;Is this person likely very experienced skiing?;['person likely', 'experienced skiing'];1;1;0;0;0
+469170001;How many men are here?;['men'];1;0;0;1;0
+469274006;What is in the bag?;['bag'];1;0;0;0;0
+469625013;What is the person doing?;['person'];1;0;0;0;0
+469639000;How many boats do you see?;['boats'];1;0;0;1;0
+469658004;Is this in America?;['America'];1;0;1;0;0
+469658013;What kind of service truck is this?;['kind of service truck'];1;1;0;0;0
+469873000;How many rolls of toilet paper are there?;['rolls of toilet paper'];1;0;1;1;0
+469973002;How old is the boy in this picture?;['boy', 'picture'];1;0;0;0;0
+470028000;Is the woman barefoot?;['woman'];1;0;0;0;0
+470053004;What has been used to mark the ground?;['ground'];1;0;0;0;0
+4702000;What is on the man's head?;["man's head"];1;0;1;0;0
+470411000;Is this animal at all related to a horse?;['animal', 'horse'];1;0;1;0;0
+470472003;What is on the man's face?;["man's face"];1;0;1;0;0
+470551002;How many players are in the dugout?;['players', 'dugout'];1;0;0;1;0
+470798010;Is this dog's tail wagging?;["dog's tail wagging"];1;0;1;0;0
+470951000;What color scheme was this photo taken in?;['color scheme', 'photo'];1;0;1;0;0
+471020001;What color is the stop light?;['color', 'stop light'];1;0;1;0;0
+471098002;Does the man in the picture give a clue to the sport he is playing?;['picture', 'clue', 'man', 'sport'];1;0;0;0;0
+471182000;Is this a pet store?;['pet store'];1;0;0;0;0
+471245000;Is there a glass of orange juice?;['glass of orange juice'];1;0;0;0;0
+47125002;How many birds are in the picture?;['birds', 'picture'];1;0;0;1;0
+471261000;Is she serving the ball?;['ball'];1;0;1;0;0
+471507000;How many sets of traffic lights can be seen?;['sets of traffic lights'];1;0;0;1;0
+471514001;Is this person on the snowboard  a hipster?;['person', 'snowboard', 'hipster'];1;0;0;0;0
+47172006;What is the name of the plant in the foreground of the picture?;['plant', 'foreground', 'picture'];1;0;0;0;0
+472027001;Why is the man in black there?;['man'];1;0;1;0;0
+472444001;Is it sunny out?;[];1;0;1;0;0
+472553009;Is the man young?;['man young'];1;0;0;0;0
+472607001;Is the skater good at the sport?;['skater good', 'sport'];1;0;1;0;0
+472700000;Are these stuffed animals moldy?;['stuffed animals moldy'];1;0;1;0;0
+472841000;Do the fence planks go horizontally or vertically?;['fence planks'];1;0;1;0;0
+472861001;The color of the stove's smoke vent is what?;['color', "stove's smoke vent"];1;0;1;0;0
+473070000;Is this street in the United States?;['street', 'United States'];1;0;0;0;0
+473102007;What is the woman on the right wearing on her head?;['right', 'woman', 'head'];1;0;0;0;0
+473254011;What color are the plates?;['color', 'plates'];1;0;1;0;0
+473326001;What is the person below wearing?;['person'];1;0;0;0;0
+473516003;How many stools are under the table?;['stools', 'table'];1;0;0;1;0
+473516008;Would one call this style of furnishing a bit minimal?;['style'];1;0;0;0;1
+473595001;Did this suitcase recently fly?;['suitcase'];1;0;0;0;0
+473726011;What time does the clock say?;['time', 'clock'];1;1;0;1;0
+473762002;What does this man's shirt say?;["man's shirt"];1;1;0;0;0
+473776011;Will it hurt the person if he falls?;['person'];1;0;0;0;0
+473993000;Is this a professional snowboarder?;['professional snowboarder'];1;0;0;0;0
+474049018;Is there more than one lamp on this workstation?;['lamp', 'workstation'];1;0;0;1;0
+474105000;What color is the blanket on the bed?;['color', 'blanket', 'bed'];1;0;1;0;0
+474453002;Are these animals eating?;['animals'];1;0;0;0;0
+474568001;How many propellers on the plane?;['propellers', 'plane'];1;0;0;1;0
+474785000;Who is in the chair?;['chair'];1;0;0;0;0
+474955013;Is the person trying to go down a ski slope?;['ski slope', 'person'];1;0;1;0;0
+474955055;Is there enough snow to ski?;['snow', 'ski'];1;0;0;0;0
+475158001;How many faces can be seen?;['faces'];1;0;0;1;0
+475336016;Where is a butter knife?;['butter knife'];1;0;0;0;0
+475441004;What brand is this motorcycle?;['brand', 'motorcycle'];1;1;0;0;0
+475443004;Is the person on the left going surfing or leaving the beach?;['left', 'surfing', 'person', 'beach'];1;0;0;0;0
+475571000;What sport is he playing?;['sport'];1;0;0;0;0
+47617001;Is this picture taken in the midwest?;['picture', 'midwest'];1;0;0;0;1
+476380005;Is the correct silverware in the picture needed to eat the pizza?;['picture', 'correct silverware', 'pizza'];1;0;0;0;0
+476447001;Is the person cold?;['person cold'];1;0;0;0;0
+476463010;What is the woman wearing on her face?;['woman', 'face'];1;0;0;0;0
+476463012;Does she have a pixie haircut?;['pixie haircut'];1;0;0;0;0
+476530002;What is separating the cat from the outdoors?;['cat', 'outdoors'];1;0;0;0;0
+476607006;Do any of the people have an outfit with no red in it?;['people', 'outfit', 'red'];1;0;1;0;0
+477031004;Can you hang this bear?;['bear'];1;0;0;0;0
+477331001;Are all the women wearing goggles?;['women', 'goggles'];1;0;1;0;0
+47734010;Do the people know each other?;['people'];1;0;0;0;0
+477471002;Is this a horse race?;['horse race'];1;0;0;0;0
+477590002;How many trains are on the track?;['trains', 'track'];1;0;0;1;0
+47767000;How many years has the pizzeria been in business?;['years', 'pizzeria', 'business'];1;1;0;1;0
+477782004;Are there benches?;['benches'];1;0;1;0;0
+477782008;What are behind the boy?;['boy'];1;0;1;0;0
+477782032;How old is this boy?;['boy'];1;0;0;1;0
+477807002;How many people are in the crowd?;['people', 'crowd'];1;0;0;1;0
+478154004;Is there a stop sign?;['stop sign'];1;0;0;0;0
+478298003;What is on the floor tiles?;['floor tiles'];1;0;1;0;0
+478726001;Was a beverage served?;['beverage'];1;1;0;0;0
+478738004;Is it ok to cross the street?;['street'];0;0;0;0;0
+478738007;What is the average price of items for sale at the store?;['sale', 'average price of items', 'store'];1;1;0;1;0
+478802000;Can you name the performer in the purple costume?;['performer', 'purple costume'];1;0;1;0;0
+478985006;How many windows?;['windows'];1;0;0;1;0
+479101002;Is there water?;['water'];1;0;0;0;0
+479134001;What animal is thirsty?;['animal'];1;0;0;0;0
+479272000;What brand does the logo on the girl's sleeve represent?;['logo', "girl's sleeve", 'brand'];1;1;0;0;0
+479333003;What is the man wearing?;['man'];1;0;1;0;0
+479372038;Is he wearing a hat?;['hat'];1;0;0;0;0
+479372050;How tall are the poles?;['poles'];1;0;0;0;0
+479372063;What three numbers are on the building in the background?;['building', 'numbers', 'background'];1;1;0;1;0
+479372085;How many windows are in the photo?;['windows', 'photo'];1;0;0;1;0
+479582002;Is this a dog a lifesaver?;['dog', 'lifesaver'];1;0;0;0;0
+479590000;Is this a medieval town?;['medieval town'];1;0;0;0;0
+479591004;Can I turn left on Beatty Road?;['Beatty Road'];1;0;1;0;0
+479593006;What city is this?;['city'];1;0;0;0;0
+479620001;Is this person riding with a western saddle?;['person riding', 'western saddle'];1;0;0;0;0
+479687001;Are these young men sitting together?;['young men'];1;0;0;0;0
+479697013;Which country's flag is represented by the cycle?;["country's flag", 'cycle'];1;0;1;0;0
+47975006;Has the dog been in the water?;['dog', 'water'];1;0;0;0;0
+480026002;What letter is on the red flag?;['letter', 'red flag'];1;1;1;0;0
+480192003;What is the color of the man's hat?;['color', "man's hat"];1;0;1;0;0
+480196015;Has someone been using a lot of bleach on a wearable?;['lot of bleach', 'wearable'];1;0;1;0;0
+480415002;Is the plain taking off?;['plain'];1;0;1;0;0
+480443002;What time is it?;['time'];1;1;0;0;0
+480482001;What is train hauling?;['train hauling'];1;0;0;0;0
+480661009;How often do people stop here?;['people'];1;0;1;0;0
+480683001;Are the cupboards or the appliances a darker color?;['cupboards', 'appliances', 'darker color'];1;0;1;0;0
+480807007;What is on the seat of the motorcycle?;['seat', 'motorcycle'];1;0;1;0;0
+480807010;Is it sunny?;[];1;0;1;0;0
+480812000;What is the man holding?;['man'];1;0;1;0;0
+480991004;What is the duffle bag on top of?;['duffle bag'];1;0;1;0;0
+481298001;What remotes are on the table?;['remotes', 'table'];1;0;0;0;0
+481301000;Is that a powerful motor?;['powerful motor'];1;1;0;0;0
+481407003;Are all the fruits in a bowl?;['fruits', 'bowl'];1;0;1;0;0
+481441024;Where is the cat laying?;['cat laying'];1;0;1;0;0
+481723004;How many zebra are standing on their hind legs?;['zebra', 'hind legs'];1;0;0;1;0
+481725015;What size bed is this?;['size bed'];1;0;0;0;0
+481802000;What brand of hot sauce is pictured here?;['brand of hot sauce'];1;0;1;0;0
+481981000;How many sheep are eating?;['sheep'];1;0;0;1;0
+48204007;How many trees are there?;['trees'];1;0;0;1;0
+482084002;Is all the fruit fresh?;['fruit fresh'];1;0;1;0;0
+48229003;Is this a the ocean?;['ocean'];1;0;1;0;0
+482300001;Who is the maker of this truck?;['maker', 'truck'];1;1;0;0;0
+482393008;How many types of tile is shown?;['types of tile'];1;0;0;1;0
+482409001;Is this a pier?;['pier'];1;0;0;0;0
+482441006;Who is looking back at the camera?;['camera'];1;0;0;0;0
+482493004;Is that a large surfboard?;['large surfboard'];1;0;0;0;0
+482696001;How many knives are there?;['knives'];1;0;1;1;0
+482753011;What is the animal in the picture doing?;['animal', 'picture'];1;0;0;0;0
+482889002;What is the woman holding by her ear?;['woman', 'ear'];1;0;0;0;0
+483323002;How many men are there?;['men'];1;1;0;1;0
+483382001;What type of pizza is in the photo?;['type of pizza', 'photo'];1;0;0;0;0
+483489003;What is the black statue in the background?;['black statue', 'background'];1;0;1;0;0
+483538001;Could Sabin suplex this train?;['Sabin suplex', 'train'];1;0;0;0;0
+483630001;Does this man have tennis balls in his shorts?;['man', 'tennis balls', 'shorts'];1;0;0;0;0
+483757009;What color are the roofs in back?;['color', 'roofs'];1;0;1;0;0
+483766000;Are these neighbors or school friends?;['neighbors', 'school friends'];1;0;0;0;0
+483855002;How many different types of donuts are shown that contain some chocolate?;['different types of donuts', 'chocolate'];1;0;1;1;0
+484044009;Are there children staying in this hotel room?;['children', 'hotel room'];1;0;0;0;0
+484064000;What are people doing in the snow?;['people', 'snow'];1;0;0;0;0
+484113006;What sport is this man playing?;['sport', 'man'];1;0;0;0;0
+484136000;What is the color of the frisbee in the top middle?;['frisbee', 'color', 'middle'];1;0;1;0;0
+484201005;How many windows are open on both computers?;['windows', 'computers'];1;0;0;1;0
+484201015;What letter is in the upper right corner of the left computer?;['upper right corner', 'left computer', 'letter'];1;1;0;0;0
+484273002;How many people are in the picture?;['people', 'picture'];1;1;0;1;0
+484281000;Where is the door knob?;['door knob'];1;0;1;0;0
+484281013;Is someone impressed by this edible object?;['edible object'];1;0;0;0;0
+484300002;Is the ocean clear?;['ocean clear'];1;0;1;0;0
+484353002;What is the red and white vegetable?;['white vegetable'];1;0;1;0;0
+484418001;Where is smoke coming from?;['smoke'];1;0;0;0;0
+48442002;What sport is being played?;['sport'];1;0;0;0;0
+484562003;How many people are on the bus?;['people', 'bus'];1;0;0;1;0
+484562009;How many people are in the photo?;['people', 'photo'];1;0;0;1;0
+484619000;Could this be a birthday party?;['birthday party'];1;0;0;0;0
+484650015;What color are the columns on the building?;['color', 'columns', 'building'];1;0;1;0;0
+484714075;Are these waves safe for the surfer?;['waves safe', 'surfer'];1;0;0;0;0
+485064002;How big is this truck?;['truck'];1;0;0;0;0
+485106002;What are most of the horses doing?;['horses'];1;0;0;0;0
+485185001;How valuable is sheep's milk?;["sheep's milk"];1;0;0;0;0
+485369003;What type of bird is perched on the branch?;['type of bird', 'branch'];1;0;1;0;0
+485426002;Are there any stuffed animal dogs?;['stuffed animal dogs'];1;0;0;0;0
+485954003;Are they feeding cake to the horses?;['cake', 'horses'];1;0;0;0;0
+486013001;Who is inside the plane?;['plane'];1;0;0;0;0
+486513001;How many vehicles are in the photo?;['vehicles', 'photo'];1;0;0;1;0
+486545006;What does the man in red have over his face?;['man', 'red', 'face'];1;0;1;0;0
+486545018;Are all of these people in traditional indigenous dress?;['people', 'traditional indigenous dress'];1;0;0;0;0
+486641001;Looking closely, how many animal faces are seen in the image?;['animal faces', 'image'];1;0;0;1;0
+487182002;Whose name is featured for this egg dish?;['egg dish'];1;1;0;0;0
+487260005;Is the truck pulling something?;['truck'];1;0;1;0;0
+487269022;Is the man doing a trick?;['man', 'trick'];1;0;0;0;0
+487269043;What sport is this person participating in?;['sport', 'person'];1;0;0;0;0
+487359002;What is this building style called?;['building style'];1;0;0;0;0
+487458003;Is he running to hit the ball?;['ball'];1;0;0;0;0
+487555000;What kind of vehicle is this?;['kind of vehicle'];1;0;0;0;0
+487854001;What animal is in this picture?;['animal', 'picture'];1;0;0;0;0
+487938002;How many flowers are orange?;['flowers', 'orange'];1;0;1;1;0
+487994000;How many men are in this picture?;['men', 'picture'];1;0;1;1;0
+488260002;How many different colors are on the round item in front of the giraffes?;['round item', 'different colors', 'giraffes'];1;0;1;1;0
+488390012;What brand of laptop is sitting on the desk?;['brand of laptop', 'desk'];1;1;0;0;0
+488422006;Is there a light?;['light'];1;0;1;0;0
+488432002;What year was this taken?;['year'];1;0;0;0;1
+488510000;How many furrows between the skier's feet?;['furrows', "skier's feet"];1;0;0;1;0
+488845022;Does the food look healthy?;['food'];1;0;0;0;0
+489369000;What animal is intermingling with the elephant?;['animal', 'elephant'];1;0;1;0;0
+489520001;Are skiers on the lift?;['skiers', 'lift'];1;0;1;0;0
+489785000;Are the people watching TV?;['people', 'TV'];1;0;0;0;0
+489802007;What is the woman holding in her left hand?;['woman', 'left hand'];1;1;0;0;0
+490097000;What animal is shown?;['animal'];1;0;0;0;0
+490400010;Is there fruit on the table on the left?;['fruit', 'table', 'left'];1;0;1;0;0
+490610000;Why does the child have a big hat on?;['child', 'big hat'];1;0;0;0;0
+490870000;What color shirt is the guy to the left wearing?;['guy', 'color shirt', 'left wearing'];1;0;1;0;0
+491177007;Is this person facing the sun?;['person'];1;0;1;0;0
+491302004;What color shoes is the gentlemen wearing in the far left?;['gentlemen', 'color shoes', 'far left'];1;0;1;0;0
+491384002;Do you think you could eat all these fruits?;['fruits'];1;0;0;1;0
+491397015;What is the name of this park?;['park'];1;1;1;0;0
+491857002;What are the purpose of the umbrella's?;['purpose', "umbrella's"];1;0;0;0;0
+491932001;What is the name of the website on the suitcase?;['website', 'suitcase'];1;1;0;0;0
+492030007;What is the person doing in the water?;['person', 'water'];1;0;0;0;0
+492114006;Why is the man on the right leaning over like that?;['man', 'right leaning'];1;0;1;0;0
+492541003;Are there stripes on the planes tail?;['planes tail'];1;0;0;0;0
+492698005;What is behind the dog?;['dog'];1;0;0;0;0
+493202010;What room is this person in?;['room', 'person'];1;0;0;0;0
+493888001;Are the boys shoes in disrepair?;['boys shoes', 'disrepair'];1;0;0;0;0
+493994001;What is in the container?;['container'];1;0;0;0;0
+494281000;Is this a Chalice?;['Chalice'];1;0;0;0;0
+494282002;Is there more than one speaker?;['speaker'];1;0;0;1;0
+494445003;Does the zebra have stripes on his nose?;['zebra', 'stripes', 'nose'];1;0;1;0;0
+494504002;What is the color of the carpet?;['color', 'carpet'];1;0;1;0;0
+494780002;What is this building made of?;['building'];1;0;0;0;0
